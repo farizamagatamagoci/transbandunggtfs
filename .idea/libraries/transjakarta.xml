@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="transjakarta">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/data/transjakarta.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

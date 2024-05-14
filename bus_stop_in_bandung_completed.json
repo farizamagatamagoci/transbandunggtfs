@@ -1,0 +1,2327 @@
+[
+  {
+    "stop_id": "bandung_terminal_leuwipanjang",
+    "stop_name": "Terminal Leuwipanjang",
+    "coordinate": "107.5933416 -6.945316684"
+  },
+  {
+    "stop_id": "bandung_hotel_grand_pasundan",
+    "stop_name": "Hotel Grand Pasundan",
+    "coordinate": "107.5934073 -6.936179925"
+  },
+  {
+    "stop_id": "bandung_bumi_kopo_kencana",
+    "stop_name": "Bumi Kopo Kencana",
+    "coordinate": "107.5904733 -6.933605282"
+  },
+  {
+    "stop_id": "bandung_mall_festival_citylink",
+    "stop_name": "Mall Festival Citylink",
+    "coordinate": "107.5872154 -6.929106288"
+  },
+  {
+    "stop_id": "bandung_simpang_pasir_koja_1",
+    "stop_name": "Simpang Pasir Koja 1",
+    "coordinate": "107.5849961 -6.927041354"
+  },
+  {
+    "stop_id": "bandung_spbu_pasir_koja",
+    "stop_name": "Spbu Pasir Koja",
+    "coordinate": "107.5793279 -6.929143507"
+  },
+  {
+    "stop_id": "bandung_hotel_soreang_a",
+    "stop_name": "Hotel Soreang A",
+    "coordinate": "107.5309883 -7.0141353"
+  },
+  {
+    "stop_id": "bandung_mall_pelayanan_publik_a",
+    "stop_name": "Mall Pelayanan Publik A",
+    "coordinate": "107.52937576659983 -7.02009357736643"
+  },
+  {
+    "stop_id": "bandung_plaza_pemkab_a",
+    "stop_name": "Plaza Pemkab Bandung A",
+    "coordinate": "107.53066451262978 -7.022412460312702"
+  },
+  {
+    "stop_id": "bandung_simpang_desa_soreang",
+    "stop_name": "Simpang Desa Soreang",
+    "coordinate": "107.5288179 -7.0288143"
+  },
+  {
+    "stop_id": "bandung_pasar_ikan_modern",
+    "stop_name": "Pasar Ikan Modern",
+    "coordinate": "107.541221 -7.0305054"
+  },
+  {
+    "stop_id": "bandung_rsud_otto_iskandar_dinata",
+    "stop_name": "Rsud Otto Iskandar Dinata",
+    "coordinate": "107.5424709 -7.0273021"
+  },
+  {
+    "stop_id": "bandung_pengendapan_tmp_1d",
+    "stop_name": "Pengendapan Tmp 1d",
+    "coordinate": "107.53040549393548 -7.016067982808144"
+  },
+  {
+    "stop_id": "bandung_hotel_soreang_b",
+    "stop_name": "Hotel Soreang B",
+    "coordinate": "107.5306957 -7.0141711"
+  },
+  {
+    "stop_id": "bandung_sumber_sari_junction",
+    "stop_name": "Sumber Sari Junction",
+    "coordinate": "107.57623897370986 -6.930378909848716"
+  },
+  {
+    "stop_id": "bandung_halte_soekarno_hatta_3",
+    "stop_name": "Halte Soekarno Hatta 3 (Pasar Induk)",
+    "coordinate": "107.58310489799297 -6.941649827156075"
+  },
+  {
+    "stop_id": "bandung_halte_soekarno_hatta_leuwi_panjang",
+    "stop_name": "Halte Soekarno Hatta Leuwi Panjang",
+    "coordinate": "107.59361491207835 -6.94591498208632"
+  },
+  {
+    "stop_id": "bandung_ikea_kota_baru_parahyangan",
+    "stop_name": "Ikea Kota Baru Parahyangan",
+    "coordinate": "107.46679506606095 -6.86608173958698"
+  },
+  {
+    "stop_id": "bandung_parahyangan_timur",
+    "stop_name": "Parahyangan Timur",
+    "coordinate": "107.4712139 -6.8663029"
+  },
+  {
+    "stop_id": "bandung_parahyangan_timur_2",
+    "stop_name": "Parahyangan Timur 2",
+    "coordinate": "107.47339612975769 -6.866254143948701"
+  },
+  {
+    "stop_id": "bandung_parahyangan_utara",
+    "stop_name": "Parahyangan Utara",
+    "coordinate": "107.47836098221882 -6.864430628016887"
+  },
+  {
+    "stop_id": "bandung_tatar_wangsakerta_a",
+    "stop_name": "Tatar Wangsakerta A",
+    "coordinate": "107.4805318 -6.8619524"
+  },
+  {
+    "stop_id": "bandung_bale_pare_a",
+    "stop_name": "Bale Pare A",
+    "coordinate": "107.4897199 -6.8567911"
+  },
+  {
+    "stop_id": "bandung_stei_lppm_a",
+    "stop_name": "Stei Lppm A",
+    "coordinate": "107.4987188 -6.8573622"
+  },
+  {
+    "stop_id": "bandung_rs_karisma_cimareme_a",
+    "stop_name": "Rs Karisma Cimareme A",
+    "coordinate": "107.5028149 -6.8628647"
+  },
+  {
+    "stop_id": "bandung_rs_imc_a",
+    "stop_name": "Rs Imc A",
+    "coordinate": "107.5100646 -6.8633897"
+  },
+  {
+    "stop_id": "bandung_masjid_ar_ridwan_a",
+    "stop_name": "Masjid Ar-Ridwan A",
+    "coordinate": "107.5189575 -6.8675129"
+  },
+  {
+    "stop_id": "bandung_padasuka_indah_a",
+    "stop_name": "Padasuka Indah A",
+    "coordinate": "107.5263999 -6.8684918"
+  },
+  {
+    "stop_id": "bandung_ranca_belut_a",
+    "stop_name": "Ranca Belut A",
+    "coordinate": "107.5321552 -6.868807"
+  },
+  {
+    "stop_id": "bandung_pln_cisangkan_a",
+    "stop_name": "Pln Cisangkan A",
+    "coordinate": "107.5364591 -6.8703828"
+  },
+  {
+    "stop_id": "bandung_bri_kota_cimahi",
+    "stop_name": "Bri Kota Cimahi",
+    "coordinate": "107.5443525 -6.8748796"
+  },
+  {
+    "stop_id": "bandung_rsud_cibabat_a",
+    "stop_name": "Rsud Cibabat A",
+    "coordinate": "107.5503877 -6.8796303"
+  },
+  {
+    "stop_id": "bandung_dinas_sosial_superindo",
+    "stop_name": "Dinas Sosial (Superindo)",
+    "coordinate": "107.554315 -6.8859726"
+  },
+  {
+    "stop_id": "bandung_jalan_budi",
+    "stop_name": "Jalan Budi",
+    "coordinate": "107.5580608 -6.8921787"
+  },
+  {
+    "stop_id": "bandung_sman_13_a",
+    "stop_name": "Sman 13 A",
+    "coordinate": "107.5648355 -6.9033251"
+  },
+  {
+    "stop_id": "bandung_paledang",
+    "stop_name": "Paledang",
+    "coordinate": "107.5657602 -6.9048494"
+  },
+  {
+    "stop_id": "bandung_halte_rajawali_barat",
+    "stop_name": "Halte Rajawali Barat",
+    "coordinate": "107.5701692 -6.9108914"
+  },
+  {
+    "stop_id": "bandung_plaza_telkom_rajawali",
+    "stop_name": "Plaza Telkom Rajawali",
+    "coordinate": "107.5754041 -6.9129112"
+  },
+  {
+    "stop_id": "bandung_rajawali_1",
+    "stop_name": "Rajawali 1",
+    "coordinate": "107.5782084 -6.9137093"
+  },
+  {
+    "stop_id": "bandung_dungus_cariang",
+    "stop_name": "Dungus Cariang",
+    "coordinate": "107.582906 -6.914816"
+  },
+  {
+    "stop_id": "bandung_sma_trinitas",
+    "stop_name": "Sma Trinitas",
+    "coordinate": "107.5917182 -6.9164853"
+  },
+  {
+    "stop_id": "bandung_rs_kebon_jati",
+    "stop_name": "Rs Kebon Jati",
+    "coordinate": "107.5966128 -6.9162875"
+  },
+  {
+    "stop_id": "bandung_sma_pasundan",
+    "stop_name": "Sma Pasundan",
+    "coordinate": "107.5996179 -6.9161873"
+  },
+  {
+    "stop_id": "bandung_perintis_kemerdekaan",
+    "stop_name": "Perintis Kemerdekaan",
+    "coordinate": "107.6078989 -6.9139566"
+  },
+  {
+    "stop_id": "bandung_lembong",
+    "stop_name": "Lembong",
+    "coordinate": "107.6098614 -6.9164696"
+  },
+  {
+    "stop_id": "bandung_alun_alun",
+    "stop_name": "Alun-Alun Bandung",
+    "coordinate": "107.607149 -6.9212854"
+  },
+  {
+    "stop_id": "bandung_keb_hana_bank",
+    "stop_name": "Keb Hana Bank",
+    "coordinate": "107.6020606 -6.920606"
+  },
+  {
+    "stop_id": "bandung_gki_anugerah",
+    "stop_name": "Gki Anugerah",
+    "coordinate": "107.59751 -6.9200655"
+  },
+  {
+    "stop_id": "bandung_mayapada_tower",
+    "stop_name": "Mayapada Tower",
+    "coordinate": "107.5917304 -6.9193943"
+  },
+  {
+    "stop_id": "bandung_toko_ambon",
+    "stop_name": "Toko Ambon",
+    "coordinate": "107.5855174 -6.9186691"
+  },
+  {
+    "stop_id": "bandung_kemenag_kanwil_jabar",
+    "stop_name": "Kemenag Kanwil Jabar",
+    "coordinate": "107.5771095 -6.9176446"
+  },
+  {
+    "stop_id": "bandung_optik_krida",
+    "stop_name": "Optik Krida",
+    "coordinate": "107.5720023 -6.9155783"
+  },
+  {
+    "stop_id": "bandung_halte_sudirman_3",
+    "stop_name": "Halte Sudirman 3",
+    "coordinate": "107.5695853 -6.9115427"
+  },
+  {
+    "stop_id": "bandung_kebon_kopi",
+    "stop_name": "Kebon Kopi",
+    "coordinate": "107.5657296 -6.9048651"
+  },
+  {
+    "stop_id": "bandung_sman_13_b",
+    "stop_name": "Sman 13 B",
+    "coordinate": "107.5648355 -6.9033251"
+  },
+  {
+    "stop_id": "bandung_cilembar",
+    "stop_name": "Cilembar",
+    "coordinate": "107.557975 -6.8923625"
+  },
+  {
+    "stop_id": "bandung_rs_mitra_kasih",
+    "stop_name": "Rs Mitra Kasih",
+    "coordinate": "107.5527907 -6.8837679"
+  },
+  {
+    "stop_id": "bandung_rsud_cibabat_b",
+    "stop_name": "Rsud Cibabat B",
+    "coordinate": "107.5502972 -6.8796777"
+  },
+  {
+    "stop_id": "bandung_smpn_6_cimahi",
+    "stop_name": "Smpn 6 Cimahi",
+    "coordinate": "107.54525 -6.8772911"
+  },
+  {
+    "stop_id": "bandung_gedung_4",
+    "stop_name": "Gedung 4",
+    "coordinate": "107.5416975 -6.8800669"
+  },
+  {
+    "stop_id": "bandung_buana",
+    "stop_name": "Buana",
+    "coordinate": "107.54067 -6.875938"
+  },
+  {
+    "stop_id": "bandung_pln_cisangkan_b",
+    "stop_name": "Pln Cisangkan B",
+    "coordinate": "107.5364759 -6.8705243"
+  },
+  {
+    "stop_id": "bandung_ranca_belut_b",
+    "stop_name": "Ranca Belut B",
+    "coordinate": "107.5319061 -6.8688664"
+  },
+  {
+    "stop_id": "bandung_padasuka_indah_b",
+    "stop_name": "Padasuka Indah B",
+    "coordinate": "107.5260753 -6.8684908"
+  },
+  {
+    "stop_id": "bandung_masjid_ar_ridwan_b",
+    "stop_name": "Masjid Ar-Ridwan B",
+    "coordinate": "107.5189575 -6.8675129"
+  },
+  {
+    "stop_id": "bandung_rs_imc_b",
+    "stop_name": "Rs Imc B",
+    "coordinate": "107.5102544 -6.8635677"
+  },
+  {
+    "stop_id": "bandung_rs_karisma_cimareme_b",
+    "stop_name": "Rs Karisma Cimareme B",
+    "coordinate": "107.5029568 -6.8630934"
+  },
+  {
+    "stop_id": "bandung_stei_lppm_b",
+    "stop_name": "Stei Lppm B",
+    "coordinate": "107.4986092 -6.857496"
+  },
+  {
+    "stop_id": "bandung_bale_pare_b",
+    "stop_name": "Bale Pare B",
+    "coordinate": "107.490153 -6.856775"
+  },
+  {
+    "stop_id": "bandung_tatar_wangsakerta_b",
+    "stop_name": "Tatar Wangsakerta B",
+    "coordinate": "107.4816286 -6.8612712"
+  },
+  {
+    "stop_id": "bandung_parahyangan_selatan",
+    "stop_name": "Parahyangan Selatan",
+    "coordinate": "107.4738238 -6.8665817"
+  },
+  {
+    "stop_id": "bandung_bec",
+    "stop_name": "Bec (Bandung Electronic Center)",
+    "coordinate": "107.6094543 -6.9081446"
+  },
+  {
+    "stop_id": "bandung_museum_kota_bandung",
+    "stop_name": "Museum Kota Bandung",
+    "coordinate": "107.6097021 -6.9101076"
+  },
+  {
+    "stop_id": "bandung_halte_merdeka",
+    "stop_name": "Halte Merdeka",
+    "coordinate": "107.6079176 -6.9127704"
+  },
+  {
+    "stop_id": "bandung_toko_mas_abc",
+    "stop_name": "Toko Mas Abc",
+    "coordinate": "107.6040007 -6.9230321"
+  },
+  {
+    "stop_id": "bandung_simpang_ijan",
+    "stop_name": "Simpang Ijan",
+    "coordinate": "107.6036723 -6.9280476"
+  },
+  {
+    "stop_id": "bandung_lapang_tegalega",
+    "stop_name": "Lapang Tegalega Bandung",
+    "coordinate": "107.60345583071458 -6.933908293461368"
+  },
+  {
+    "stop_id": "bandung_pt_inti_a",
+    "stop_name": "Pt Inti A",
+    "coordinate": "107.6063532 -6.9389947"
+  },
+  {
+    "stop_id": "bandung_madurasa_tengah",
+    "stop_name": "Madurasa Tengah",
+    "coordinate": "107.6084009 -6.9451896"
+  },
+  {
+    "stop_id": "bandung_pln_up3_b",
+    "stop_name": "Pln Up3 Bandung B",
+    "coordinate": "107.61215072885715 -6.948277248722487"
+  },
+  {
+    "stop_id": "bandung_pt_len_industri_b",
+    "stop_name": "Pt Len Industri B",
+    "coordinate": "107.619152 -6.9489877"
+  },
+  {
+    "stop_id": "bandung_lpkia_b",
+    "stop_name": "Lpkia B",
+    "coordinate": "107.6246500000261 -6.949253499834332"
+  },
+  {
+    "stop_id": "bandung_bangunan_mart_b",
+    "stop_name": "Bangunan Mart B",
+    "coordinate": "107.62807510187945 -6.949131549742439"
+  },
+  {
+    "stop_id": "bandung_taman_bypass_buah_batu",
+    "stop_name": "Taman Bypass Buah Batu",
+    "coordinate": "107.63468454817125 -6.947409280712815"
+  },
+  {
+    "stop_id": "bandung_swadarma_bni",
+    "stop_name": "Swadarma Bni",
+    "coordinate": "107.63641072494754 -6.950629068421015"
+  },
+  {
+    "stop_id": "bandung_pasar_kordon_b",
+    "stop_name": "Pasar Kordon B",
+    "coordinate": "107.63875854235577 -6.953332200903357"
+  },
+  {
+    "stop_id": "bandung_bluebird_b",
+    "stop_name": "Bluebird B",
+    "coordinate": "107.63959000002605 -6.958261552433819"
+  },
+  {
+    "stop_id": "bandung_puskesmas_kujangsari_b",
+    "stop_name": "Puskesmas Kujangsari B",
+    "coordinate": "107.63822291537528 -6.964777656379894"
+  },
+  {
+    "stop_id": "bandung_transmart_buah_batu",
+    "stop_name": "Transmart Buah Batu",
+    "coordinate": "107.63779874607154 -6.967165452721971"
+  },
+  {
+    "stop_id": "bandung_permata_buah_batu",
+    "stop_name": "Permata Buah Batu",
+    "coordinate": "107.63654332313128 -6.971341276150079"
+  },
+  {
+    "stop_id": "bandung_podomoro",
+    "stop_name": "Podomoro",
+    "coordinate": "107.62919389548568 -6.9758444643759505"
+  },
+  {
+    "stop_id": "bandung_ahass",
+    "stop_name": "Ahass",
+    "coordinate": "107.63396000148052 -6.975234415114301"
+  },
+  {
+    "stop_id": "bandung_griya_bandung_asri",
+    "stop_name": "Griya Bandung Asri",
+    "coordinate": "107.63290072885624 -6.985685455668461"
+  },
+  {
+    "stop_id": "bandung_alfamart_spbu_bojongsoang",
+    "stop_name": "Alfamart Spbu Bojongsoang",
+    "coordinate": "107.63171218653764 -6.9912483168815855"
+  },
+  {
+    "stop_id": "bandung_masjid_jami_baitul_huda_b",
+    "stop_name": "Masjid Jami' Baitul Huda B",
+    "coordinate": "107.63194696863103 -7.000189142189134"
+  },
+  {
+    "stop_id": "bandung_apotek_k24_baleendah",
+    "stop_name": "Apotek K24 Baleendah",
+    "coordinate": "107.63070562700456 -7.0054370252363976"
+  },
+  {
+    "stop_id": "bandung_kejari_bale_bandung",
+    "stop_name": "Kejari Bale Bandung",
+    "coordinate": "107.62375000003514 -7.005871566521602"
+  },
+  {
+    "stop_id": "bandung_rs_al_ihsan",
+    "stop_name": "Rs Al-Ihsan",
+    "coordinate": "107.62443645695718 -7.006791482046691"
+  },
+  {
+    "stop_id": "bandung_baleendah",
+    "stop_name": "Baleendah",
+    "coordinate": "107.6156089 -6.9879481"
+  },
+  {
+    "stop_id": "bandung_masjid_al_amanah",
+    "stop_name": "Masjid Al-Amanah",
+    "coordinate": "107.62881801723505 -7.005665727880287"
+  },
+  {
+    "stop_id": "bandung_matahari_land",
+    "stop_name": "Matahari Land",
+    "coordinate": "107.63125437305175 -7.003780917129501"
+  },
+  {
+    "stop_id": "bandung_masjid_jami_baitul_huda_a",
+    "stop_name": "Masjid Jami' Baitul Huda A",
+    "coordinate": "107.63177906750195 -7.000071507201208"
+  },
+  {
+    "stop_id": "bandung_bubur_ayam_h_amid",
+    "stop_name": "Bubur Ayam H. Amid",
+    "coordinate": "107.6307540207002 -6.994541663407603"
+  },
+  {
+    "stop_id": "bandung_borma_bojongsoang",
+    "stop_name": "Borma Bojongsoang",
+    "coordinate": "107.6330385423757 -6.98428026168127"
+  },
+  {
+    "stop_id": "bandung_sd_negeri_lengkong",
+    "stop_name": "Sd Negeri Lengkong",
+    "coordinate": "107.6351507288705 -6.9761670118941375"
+  },
+  {
+    "stop_id": "bandung_puskesmas_bojongsoang",
+    "stop_name": "Puskesmas Bojongsoang",
+    "coordinate": "107.6374074 -6.9676031"
+  },
+  {
+    "stop_id": "bandung_bluebird_a",
+    "stop_name": "Bluebird A",
+    "coordinate": "107.63954655956672 -6.957519602733673"
+  },
+  {
+    "stop_id": "bandung_pasar_kordon_a",
+    "stop_name": "Pasar Kordon A",
+    "coordinate": "107.6389029153914 -6.95401765174132"
+  },
+  {
+    "stop_id": "bandung_japnas",
+    "stop_name": "Japnas",
+    "coordinate": "107.63643483383315 -6.9511009003490525"
+  },
+  {
+    "stop_id": "bandung_pt_medal_sekarwangi",
+    "stop_name": "Pt Medal Sekarwangi",
+    "coordinate": "107.62545354773773 -6.934827755648297"
+  },
+  {
+    "stop_id": "bandung_bangunan_mart_a",
+    "stop_name": "Bangunan Mart A",
+    "coordinate": "107.62812000002147 -6.949364149864763"
+  },
+  {
+    "stop_id": "bandung_lpkia_a",
+    "stop_name": "Lpkia A",
+    "coordinate": "107.62431000002405 -6.949422849852001"
+  },
+  {
+    "stop_id": "bandung_pt_len_industri_a",
+    "stop_name": "Pt Len Industri A",
+    "coordinate": "107.619152 -6.9489877"
+  },
+  {
+    "stop_id": "bandung_pln_up3_a",
+    "stop_name": "Pln Up3 Bandung A",
+    "coordinate": "107.61209708467571 -6.948511549560247"
+  },
+  {
+    "stop_id": "bandung_mohammad_toha",
+    "stop_name": "Mohammad Toha",
+    "coordinate": "107.6084358310604 -6.944171985691954"
+  },
+  {
+    "stop_id": "bandung_taman_tegalega",
+    "stop_name": "Taman Tegalega",
+    "coordinate": "107.6036999 -6.9372463"
+  },
+  {
+    "stop_id": "bandung_sekolah_mohammad_toha",
+    "stop_name": "Sekolah Mohammad Toha",
+    "coordinate": "107.60669 -6.93041"
+  },
+  {
+    "stop_id": "bandung_itc_kebon_kelapa",
+    "stop_name": "Itc Kebon Kelapa",
+    "coordinate": "107.60673 -6.92754"
+  },
+  {
+    "stop_id": "bandung_grand_yogya_kepatihan",
+    "stop_name": "Grand Yogya Kepatihan",
+    "coordinate": "107.6036051 -6.92385"
+  },
+  {
+    "stop_id": "bandung_banceuy",
+    "stop_name": "Banceuy",
+    "coordinate": "107.6066134 -6.9188699"
+  },
+  {
+    "stop_id": "bandung_stasiun_timur",
+    "stop_name": "Stasiun Timur",
+    "coordinate": "107.6044803 -6.9153549"
+  },
+  {
+    "stop_id": "bandung_stasiun_bandung",
+    "stop_name": "Stasiun Bandung",
+    "coordinate": "107.6029303 -6.9125954"
+  },
+  {
+    "stop_id": "bandung_sman_6_bandung",
+    "stop_name": "Sman 6 Bandung",
+    "coordinate": "107.5978589 -6.9114176"
+  },
+  {
+    "stop_id": "bandung_sdn_pajajaran",
+    "stop_name": "Sdn Pajajaran",
+    "coordinate": "107.5999956 -6.9067937"
+  },
+  {
+    "stop_id": "bandung_sthb",
+    "stop_name": "Sthb",
+    "coordinate": "107.6043586 -6.9065179"
+  },
+  {
+    "stop_id": "bandung_rumah_sakit_imanuel_a",
+    "stop_name": "Rumah Sakit Imanuel A",
+    "coordinate": "107.5939306 -6.936414"
+  },
+  {
+    "stop_id": "bandung_pintu_keluar_terminal_tegalega",
+    "stop_name": "Pintu Keluar Terminal Tegalega",
+    "coordinate": "107.5974891 -6.93383"
+  },
+  {
+    "stop_id": "bandung_astana_anyar_rsia_kota_bandung",
+    "stop_name": "Astana Anyar Rsia Kota Bandung",
+    "coordinate": "107.600639 -6.9293733"
+  },
+  {
+    "stop_id": "bandung_terminal_st_hall",
+    "stop_name": "Terminal St. Hall",
+    "coordinate": "107.5999651 -6.91605"
+  },
+  {
+    "stop_id": "bandung_halte_smkn_1_bandung",
+    "stop_name": "Halte Smkn 1 Bandung",
+    "coordinate": "107.6089856 -6.913012"
+  },
+  {
+    "stop_id": "bandung_riau_xl",
+    "stop_name": "Riau XL",
+    "coordinate": "107.6096233 -6.9067978"
+  },
+  {
+    "stop_id": "bandung_hotel_the_one_o_one_a",
+    "stop_name": "Hotel the One-O-One A",
+    "coordinate": "107.5996253 -6.9110899"
+  },
+  {
+    "stop_id": "bandung_taman_radio",
+    "stop_name": "Taman Radio",
+    "coordinate": "107.6089351 -6.9026735"
+  },
+  {
+    "stop_id": "bandung_kartika_sari_a",
+    "stop_name": "Kartika Sari A",
+    "coordinate": "107.6130412 -6.8914958"
+  },
+  {
+    "stop_id": "bandung_rumah_sakit_santo_borromeus_a",
+    "stop_name": "Rumah Sakit Santo Borromeus A",
+    "coordinate": "107.6128839 -6.8944726"
+  },
+  {
+    "stop_id": "bandung_unikom",
+    "stop_name": "Unikom",
+    "coordinate": "107.6151292 -6.8868878"
+  },
+  {
+    "stop_id": "bandung_unpad_dipatiukur",
+    "stop_name": "Unpad Dipatiukur",
+    "coordinate": "107.6178302 -6.8923042"
+  },
+  {
+    "stop_id": "bandung_rumah_sakit_santo_borromeus_b",
+    "stop_name": "Rumah Sakit Santo Borromeus B",
+    "coordinate": "107.613435 -6.8948767"
+  },
+  {
+    "stop_id": "bandung_kartika_sari_b",
+    "stop_name": "Kartika Sari B",
+    "coordinate": "107.6129141 -6.8975176"
+  },
+  {
+    "stop_id": "bandung_seberang_taman_radio",
+    "stop_name": "Seberang Taman Radio",
+    "coordinate": "107.6089351 -6.9026735"
+  },
+  {
+    "stop_id": "bandung_hotel_the_one_o_one_b",
+    "stop_name": "Hotel the One-O-One B",
+    "coordinate": "107.5996253 -6.9110899"
+  },
+  {
+    "stop_id": "bandung_indah_plaza",
+    "stop_name": "Bandung Indah Plaza",
+    "coordinate": "107.6109188 -6.9097748"
+  },
+  {
+    "stop_id": "bandung_bank_indonesia",
+    "stop_name": "Bank Indonesia",
+    "coordinate": "107.6090686 -6.9145193"
+  },
+  {
+    "stop_id": "bandung_pasar_baru_bandung",
+    "stop_name": "Pasar Baru Bandung",
+    "coordinate": "107.6044519 -6.9164303"
+  },
+  {
+    "stop_id": "bandung_jalan_dalem_kaum",
+    "stop_name": "Jalan Dalem Kaum",
+    "coordinate": "107.5992191 -6.92208"
+  },
+  {
+    "stop_id": "bandung_ibu_inggit_garnasih",
+    "stop_name": "Ibu Inggit Garnasih",
+    "coordinate": "107.6039255 -6.9314493"
+  },
+  {
+    "stop_id": "bandung_pasar_tegalega",
+    "stop_name": "Pasar Tegalega",
+    "coordinate": "107.6063649 -6.936505"
+  },
+  {
+    "stop_id": "bandung_simpang_mohamad_toha",
+    "stop_name": "Simpang Mohamad Toha",
+    "coordinate": "107.6055097 -6.9375586"
+  },
+  {
+    "stop_id": "bandung_rumah_sakit_imanuel_b",
+    "stop_name": "Rumah Sakit Imanuel B",
+    "coordinate": "107.5933501 -6.937395"
+  },
+  {
+    "stop_id": "bandung_halte_unpad_dipatiukur",
+    "stop_name": "Halte Unpad Dipatiukur",
+    "coordinate": "107.6178302 -6.8923042"
+  },
+  {
+    "stop_id": "bandung_panatayuda_a",
+    "stop_name": "Panatayuda A",
+    "coordinate": "107.6162121 -6.8979268"
+  },
+  {
+    "stop_id": "bandung_lapangan_gasibu_a",
+    "stop_name": "Lapangan Gasibu A (Taman Lansia)",
+    "coordinate": "107.6199289 -6.901132"
+  },
+  {
+    "stop_id": "bandung_pusdai_a",
+    "stop_name": "Pusdai A (Rri)",
+    "coordinate": "107.6241889 -6.9010136"
+  },
+  {
+    "stop_id": "bandung_lapangan_supratman_a",
+    "stop_name": "Lapangan Supratman A (Smpn 14)",
+    "coordinate": "107.630157 -6.9081075"
+  },
+  {
+    "stop_id": "bandung_taman_pramuka",
+    "stop_name": "Taman Pramuka",
+    "coordinate": "107.6265967 -6.9105798"
+  },
+  {
+    "stop_id": "bandung_hotel_grand_tebu",
+    "stop_name": "Hotel Grand Tebu",
+    "coordinate": "107.6288644 -6.9130163"
+  },
+  {
+    "stop_id": "bandung_creative_hub_a",
+    "stop_name": "Bandung Creative Hub A",
+    "coordinate": "107.6313724 -6.918349"
+  },
+  {
+    "stop_id": "bandung_hotel_horison_a",
+    "stop_name": "Hotel Horison A",
+    "coordinate": "107.6253125 -6.9343466"
+  },
+  {
+    "stop_id": "bandung_simpang_by_pass_soekarno_hatta_a",
+    "stop_name": "Simpang by Pass Soekarno Hatta A",
+    "coordinate": "107.6091213 -6.9473658"
+  },
+  {
+    "stop_id": "bandung_spbu_moh_toha",
+    "stop_name": "Spbu Moh.Toha",
+    "coordinate": "107.6115668 -6.9546052"
+  },
+  {
+    "stop_id": "bandung_terminal_cileunyi",
+    "stop_name": "Terminal Cileunyi",
+    "coordinate": "107.7511051 -6.94048"
+  },
+  {
+    "stop_id": "bandung_ipdn_a",
+    "stop_name": "Ipdn A",
+    "coordinate": "107.7652049 -6.9356267"
+  },
+  {
+    "stop_id": "bandung_pangkalan_damri_jatinangor",
+    "stop_name": "Pangkalan Damri Jatinangor",
+    "coordinate": "107.7758563 -6.9316585"
+  },
+  {
+    "stop_id": "bandung_unpad_jatinagor",
+    "stop_name": "Unpad Jatinagor",
+    "coordinate": "107.7765085 -6.9325281"
+  },
+  {
+    "stop_id": "bandung_jatinangor_town_square",
+    "stop_name": "Jatinangor Town Square",
+    "coordinate": "107.7712456 -6.9340124"
+  },
+  {
+    "stop_id": "bandung_ipdn_b",
+    "stop_name": "Ipdn B",
+    "coordinate": "107.7651656 -6.9357687"
+  },
+  {
+    "stop_id": "bandung_panyawungan",
+    "stop_name": "Panyawungan",
+    "coordinate": "107.7511051 -6.94048"
+  },
+  {
+    "stop_id": "bandung_jl_h_tatang_sumantri",
+    "stop_name": "Jl. H. Tatang Sumantri",
+    "coordinate": "107.6114644 -6.9547463"
+  },
+  {
+    "stop_id": "bandung_simpang_by_pass_soekarno_hatta_b",
+    "stop_name": "Simpang by Pass Soekarno Hatta B",
+    "coordinate": "107.6087487 -6.9483802"
+  },
+  {
+    "stop_id": "bandung_halte_bkr_5_pamager_sari",
+    "stop_name": "Halte Bkr 5 Pamager Sari",
+    "coordinate": "107.6067581 -6.9374679"
+  },
+  {
+    "stop_id": "bandung_hotel_horison_b",
+    "stop_name": "Hotel Horison B",
+    "coordinate": "107.6251519 -6.9342818"
+  },
+  {
+    "stop_id": "bandung_creative_hub_b",
+    "stop_name": "Bandung Creative Hub B",
+    "coordinate": "107.631219 -6.9184662"
+  },
+  {
+    "stop_id": "bandung_spbu_ahmad_yani",
+    "stop_name": "Spbu Ahmad Yani",
+    "coordinate": "107.6339249 -6.9129503"
+  },
+  {
+    "stop_id": "bandung_lapangan_supratman_b",
+    "stop_name": "Lapangan Supratman B (Sd Ciujung)",
+    "coordinate": "107.6296905 -6.9072435"
+  },
+  {
+    "stop_id": "bandung_pusdai_b",
+    "stop_name": "Pusdai B (Sma Alfa Centauri)",
+    "coordinate": "107.6241716 -6.9012082"
+  },
+  {
+    "stop_id": "bandung_lapangan_gasibu_b",
+    "stop_name": "Lapangan Gasibu B (Taman Lansia)",
+    "coordinate": "107.6201481  -6.9013276"
+  },
+  {
+    "stop_id": "bandung_panatayuda_b",
+    "stop_name": "Panatayuda B",
+    "coordinate": "107.6161299 -6.8979463"
+  },
+  {
+    "stop_id": "bandung_pasar_bunga_wastu_kencana",
+    "stop_name": "Pasar Bunga Wastu Kencana",
+    "coordinate": "107.607265 -6.9048943"
+  },
+  {
+    "stop_id": "bandung_cicendo",
+    "stop_name": "Cicendo",
+    "coordinate": "107.6044529 -6.9075468"
+  },
+  {
+    "stop_id": "bandung_pintu_barat_stasiun_bandung",
+    "stop_name": "Pintu Barat Stasiun Bandung",
+    "coordinate": "107.6029304 -6.9126273"
+  },
+  {
+    "stop_id": "bandung_abdul_rivai",
+    "stop_name": "Abdul Rivai",
+    "coordinate": "107.6029269 -6.904267"
+  },
+  {
+    "stop_id": "bandung_dr_otten",
+    "stop_name": "Dr. Otten",
+    "coordinate": "107.5996034 -6.9021781"
+  },
+  {
+    "stop_id": "bandung_rs_hasan_sadikin",
+    "stop_name": "Rs. Hasan Sadikin",
+    "coordinate": "107.5993726 -6.8961604"
+  },
+  {
+    "stop_id": "bandung_gki_kebon_jati",
+    "stop_name": "Gki Kebon Jati",
+    "coordinate": "107.5987167 -6.9162362"
+  },
+  {
+    "stop_id": "bandung_btc",
+    "stop_name": "Btc",
+    "coordinate": "107.5853487 -6.894195"
+  },
+  {
+    "stop_id": "bandung_borma_dakota",
+    "stop_name": "Borma Dakota",
+    "coordinate": "107.5726332 -6.8935801"
+  },
+  {
+    "stop_id": "bandung_gunung_batu_mentor",
+    "stop_name": "Gunung Batu Mentor",
+    "coordinate": "107.5673186 -6.8873601"
+  },
+  {
+    "stop_id": "bandung_gunung_batu",
+    "stop_name": "Gunung Batu",
+    "coordinate": "107.5666744 -6.889252"
+  },
+  {
+    "stop_id": "bandung_babakan_ciparay",
+    "stop_name": "Babakan Ciparay",
+    "coordinate": "107.7132426 -7.0357112"
+  },
+  {
+    "stop_id": "bandung_mall_summarecon_bandung",
+    "stop_name": "Mall Summarecon Bandung",
+    "coordinate": "107.6991477 -6.9555667"
+  },
+  {
+    "stop_id": "bandung_stasiun_gedebage",
+    "stop_name": "Stasiun Gedebage",
+    "coordinate": "107.6989816 -6.9331774"
+  },
+  {
+    "stop_id": "bandung_halte_rs_al_islam",
+    "stop_name": "Halte Rs Al Islam",
+    "coordinate": "107.669306 -6.9387514"
+  },
+  {
+    "stop_id": "bandung_kawaluyaan",
+    "stop_name": "Kawaluyaan",
+    "coordinate": "107.6635231 -6.9389469"
+  },
+  {
+    "stop_id": "bandung_halte_metro",
+    "stop_name": "Halte Metro",
+    "coordinate": "107.6583047 -6.9403106"
+  },
+  {
+    "stop_id": "bandung_halte_soekarno_hatta_4",
+    "stop_name": "Halte Soekarno Hatta 4",
+    "coordinate": "107.6464771 -6.9437949"
+  },
+  {
+    "stop_id": "bandung_halte_griya",
+    "stop_name": "Halte Griya",
+    "coordinate": "107.6444764 -6.9221607"
+  },
+  {
+    "stop_id": "bandung_seberang_ampera_soekarno_hatta",
+    "stop_name": "Seberang Ampera Soekarno Hatta",
+    "coordinate": "107.6329776 -6.9482293"
+  },
+  {
+    "stop_id": "bandung_jalan_soekarno_hatta",
+    "stop_name": "Jalan Soekarno Hatta",
+    "coordinate": "107.6329776 -6.9482293"
+  },
+  {
+    "stop_id": "bandung_convention_center",
+    "stop_name": "Bandung Convention Center",
+    "coordinate": "107.6328349 -6.9143539"
+  },
+  {
+    "stop_id": "bandung_suka_ati",
+    "stop_name": "Suka Ati",
+    "coordinate": "107.6215656 -6.9491645"
+  },
+  {
+    "stop_id": "bandung_pasirluyu_selatan",
+    "stop_name": "Pasirluyu Selatan",
+    "coordinate": "107.6215656 -6.9491645"
+  },
+  {
+    "stop_id": "bandung_sai",
+    "stop_name": "Sai",
+    "coordinate": "107.614544 -6.883455"
+  },
+  {
+    "stop_id": "bandung_simpang_cibaduyut",
+    "stop_name": "Simpang Cibaduyut",
+    "coordinate": "107.5908461 -6.9727951"
+  },
+  {
+    "stop_id": "bandung_astra_biz_center",
+    "stop_name": "Astra Biz Center",
+    "coordinate": "107.5858421 -6.9060304"
+  },
+  {
+    "stop_id": "bandung_pasar_caringin",
+    "stop_name": "Pasar Caringin",
+    "coordinate": "107.5844282 -6.9430135"
+  },
+  {
+    "stop_id": "bandung_terusan_suryani",
+    "stop_name": "Terusan Suryani",
+    "coordinate": "107.580869 -6.9206062"
+  },
+  {
+    "stop_id": "bandung_elang",
+    "stop_name": "Elang",
+    "coordinate": "107.5755676 -6.9139632"
+  },
+  {
+    "stop_id": "bandung_ypp_teknik_holis",
+    "stop_name": "Ypp Teknik (Holis)",
+    "coordinate": "107.5740641 -6.9279358"
+  },
+  {
+    "stop_id": "bandung_pertigaan_jalan_holis",
+    "stop_name": "Pertigaan Jalan Holis",
+    "coordinate": "107.5740641 -6.9279358"
+  },
+  {
+    "stop_id": "bandung_stt_mandala",
+    "stop_name": "Stt Mandala",
+    "coordinate": "107.3516439 -6.8328067"
+  },
+  {
+    "stop_id": "bandung_halte_bumi_panyileukan",
+    "stop_name": "Halte Bumi Panyileukan",
+    "coordinate": "107.7128557 -6.946652"
+  },
+  {
+    "stop_id": "bandung_pasar_induk_gedebage",
+    "stop_name": "Pasar Induk Gedebage",
+    "coordinate": "107.6973013 -6.936343"
+  },
+  {
+    "stop_id": "bandung_metro_b",
+    "stop_name": "Metro B",
+    "coordinate": "107.6583047 -6.9403106"
+  },
+  {
+    "stop_id": "bandung_padasuka",
+    "stop_name": "Padasuka",
+    "coordinate": "107.8983548 -6.841358"
+  },
+  {
+    "stop_id": "bandung_terminal_cicaheum",
+    "stop_name": "Terminal Cicaheum",
+    "coordinate": "107.6568052 -6.9022292"
+  },
+  {
+    "stop_id": "bandung_simpang_cicaheum",
+    "stop_name": "Simpang Cicaheum",
+    "coordinate": "107.6568052 -6.9022292"
+  },
+  {
+    "stop_id": "bandung_seberang_terminal_cicaheum",
+    "stop_name": "Seberang Terminal Cicaheum",
+    "coordinate": "107.6567951 -6.9020762"
+  },
+  {
+    "stop_id": "bandung_cimuncang",
+    "stop_name": "Cimuncang",
+    "coordinate": "107.6500247 -6.9016968"
+  },
+  {
+    "stop_id": "bandung_gateway_cicadas",
+    "stop_name": "Gateway Cicadas",
+    "coordinate": "107.6459755 -6.9073207"
+  },
+  {
+    "stop_id": "bandung_btm",
+    "stop_name": "Btm",
+    "coordinate": "107.6434706 -6.9112712"
+  },
+  {
+    "stop_id": "bandung_halte_tmb_ibrahim_adjie",
+    "stop_name": "Halte Tmb Ibrahim Adjie",
+    "coordinate": "107.6421592 -6.9429006"
+  },
+  {
+    "stop_id": "bandung_awi_bitung",
+    "stop_name": "Awi Bitung",
+    "coordinate": "107.6395652 -6.9105947"
+  },
+  {
+    "stop_id": "bandung_gor_koni",
+    "stop_name": "Gor Koni",
+    "coordinate": "107.6362581 -6.914741"
+  },
+  {
+    "stop_id": "bandung_sekolah_agustinus",
+    "stop_name": "Sekolah Agustinus",
+    "coordinate": "107.6331886 -6.9139814"
+  },
+  {
+    "stop_id": "bandung_plaza_ibcc",
+    "stop_name": "Plaza Ibcc",
+    "coordinate": "107.6328349 -6.9143539"
+  },
+  {
+    "stop_id": "bandung_lapangan_persib",
+    "stop_name": "Lapangan Persib",
+    "coordinate": "107.6301434 -6.916119"
+  },
+  {
+    "stop_id": "bandung_seberang_persib",
+    "stop_name": "Seberang Persib",
+    "coordinate": "107.6301434 -6.916119"
+  },
+  {
+    "stop_id": "bandung_jaya_plaza",
+    "stop_name": "Jaya Plaza",
+    "coordinate": "107.6268117 -6.9173661"
+  },
+  {
+    "stop_id": "bandung_segitiga_mas",
+    "stop_name": "Segitiga Mas",
+    "coordinate": "107.6258492 -6.9178881"
+  },
+  {
+    "stop_id": "bandung_cikudapateuh",
+    "stop_name": "Cikudapateuh",
+    "coordinate": "107.6245097 -6.9186418"
+  },
+  {
+    "stop_id": "bandung_kantor_pos_kosambi",
+    "stop_name": "Kantor Pos Kosambi",
+    "coordinate": "107.6235428 -6.9192619"
+  },
+  {
+    "stop_id": "bandung_seberang_pasar_kosambi",
+    "stop_name": "Seberang Pasar Kosambi",
+    "coordinate": "107.6220644 -6.9199617"
+  },
+  {
+    "stop_id": "bandung_pasar_kosambi",
+    "stop_name": "Pasar Kosambi",
+    "coordinate": "107.6220644 -6.9199617"
+  },
+  {
+    "stop_id": "bandung_rsu_bungsu",
+    "stop_name": "Rsu Bungsu",
+    "coordinate": "107.6132861 -6.918174"
+  },
+  {
+    "stop_id": "bandung_sudirman_sukamanah",
+    "stop_name": "Sudirman Sukamanah",
+    "coordinate": "107.5937395 -6.9196251"
+  },
+  {
+    "stop_id": "bandung_pasar_ciroyom",
+    "stop_name": "Pasar Ciroyom",
+    "coordinate": "107.5885486 -6.9141236"
+  },
+  {
+    "stop_id": "bandung_simpang_jamika",
+    "stop_name": "Simpang Jamika",
+    "coordinate": "107.5874464 -6.9188722"
+  },
+  {
+    "stop_id": "bandung_jl_a_yani",
+    "stop_name": "Jl A Yani",
+    "coordinate": "107.580869 -6.9206062"
+  },
+  {
+    "stop_id": "bandung_surapati_core",
+    "stop_name": "Surapati Core",
+    "coordinate": "107.6525389 -6.9018313"
+  },
+  {
+    "stop_id": "bandung_surapati_4",
+    "stop_name": "Surapati 4",
+    "coordinate": "107.6179718 -6.8992242"
+  },
+  {
+    "stop_id": "bandung_dapen_telkom",
+    "stop_name": "Dapen Telkom",
+    "coordinate": "107.5897879 -6.8698794"
+  },
+  {
+    "stop_id": "bandung_terminal_antapani",
+    "stop_name": "Terminal Antapani",
+    "coordinate": "107.6659285 -6.915304"
+  },
+  {
+    "stop_id": "bandung_seberang_borma_antapani",
+    "stop_name": "Seberang Borma Antapani",
+    "coordinate": "107.6492727 -6.9130091"
+  },
+  {
+    "stop_id": "bandung_kangkung_kaler",
+    "stop_name": "Kangkung Kaler",
+    "coordinate": "107.6260305 -6.9308256"
+  },
+  {
+    "stop_id": "bandung_pasirluyu",
+    "stop_name": "Pasirluyu",
+    "coordinate": "107.6215656 -6.9491645"
+  },
+  {
+    "stop_id": "bandung_museum_sri_baduga",
+    "stop_name": "Museum Sri Baduga",
+    "coordinate": "107.6036999 -6.9372463"
+  },
+  {
+    "stop_id": "bandung_sdn_babakan_tarogong",
+    "stop_name": "Sdn Babakan Tarogong",
+    "coordinate": "107.5940999 -6.9384699"
+  },
+  {
+    "stop_id": "bandung_borma_antapani",
+    "stop_name": "Borma Antapani",
+    "coordinate": "107.6495005 -6.9129025"
+  },
+  {
+    "stop_id": "bandung_kementrian_pu",
+    "stop_name": "Kementrian Pu",
+    "coordinate": "107.626123 -6.9009951"
+  },
+  {
+    "stop_id": "bandung_riau_junction_1",
+    "stop_name": "Riau Junction 1",
+    "coordinate": "107.6116714 -6.9069866"
+  },
+  {
+    "stop_id": "bandung_tamblong",
+    "stop_name": "Tamblong",
+    "coordinate": "107.6111029 -6.9170839"
+  },
+  {
+    "stop_id": "bandung_halte_banceuy",
+    "stop_name": "Halte Banceuy",
+    "coordinate": "107.6066134 -6.9188699"
+  },
+  {
+    "stop_id": "bandung_pasteur_2",
+    "stop_name": "Pasteur 2",
+    "coordinate": "107.5819472 -6.8922747"
+  },
+  {
+    "stop_id": "bandung_jalan_parahyangan_42",
+    "stop_name": "Jalan Parahyangan 42",
+    "coordinate": "107.4712139 -6.8663029"
+  },
+  {
+    "stop_id": "bandung_jalan_parahyangan",
+    "stop_name": "Jalan Parahyangan",
+    "coordinate": "107.4712139 -6.8663029"
+  },
+  {
+    "stop_id": "bandung_griya_buah_batu",
+    "stop_name": "Griya Buah Batu",
+    "coordinate": "107.6444764 -6.9221607"
+  },
+  {
+    "stop_id": "bandung_lapang_lodaya",
+    "stop_name": "Lapang Lodaya",
+    "coordinate": "107.6249815 -6.9320775"
+  },
+  {
+    "stop_id": "bandung_cikuda",
+    "stop_name": "Cikuda",
+    "coordinate": "107.6245097 -6.9186418"
+  },
+  {
+    "stop_id": "bandung_pungkur",
+    "stop_name": "Pungkur",
+    "coordinate": "107.6104487 -6.929424"
+  },
+  {
+    "stop_id": "bandung_jalan_gempol",
+    "stop_name": "Jalan Gempol",
+    "coordinate": "107.5580796 -6.9299747"
+  },
+  {
+    "stop_id": "bandung_spbu_panghegar",
+    "stop_name": "Spbu Panghegar",
+    "coordinate": "107.700111 -6.9282634"
+  },
+  {
+    "stop_id": "bandung_terminal_damri_elang",
+    "stop_name": "Terminal Damri Elang",
+    "coordinate": "107.5755676 -6.9139632"
+  },
+  {
+    "stop_id": "bandung_gerbang_biru_gbla",
+    "stop_name": "Gerbang Biru Gbla",
+    "coordinate": "107.7177552 -6.9347327"
+  },
+  {
+    "stop_id": "bandung_stasiun_cimekar",
+    "stop_name": "Stasiun Cimekar",
+    "coordinate": "107.7099396 -6.9482861"
+  },
+  {
+    "stop_id": "bandung_uin_sunan_gunung_djati",
+    "stop_name": "Uin Sunan Gunung Djati",
+    "coordinate": "107.7157532 -6.9323756"
+  },
+  {
+    "stop_id": "bandung_cikadut",
+    "stop_name": "Cikadut",
+    "coordinate": "107.6653297 -6.9040593"
+  },
+  {
+    "stop_id": "bandung_depan_terminal_cicaheum",
+    "stop_name": "Depan Terminal Cicaheum",
+    "coordinate": "107.6568052 -6.9022292"
+  },
+  {
+    "stop_id": "bandung_stmik",
+    "stop_name": "Stmik",
+    "coordinate": "107.6382039 -6.9145037"
+  },
+  {
+    "stop_id": "bandung_museum_kaa",
+    "stop_name": "Museum Kaa",
+    "coordinate": "107.6215656 -6.9491645"
+  },
+  {
+    "stop_id": "bandung_simpang_pungkur_dewi_sartika",
+    "stop_name": "Simpang Pungkur-Dewi Sartika",
+    "coordinate": "107.6059335 -6.9266974"
+  },
+  {
+    "stop_id": "bandung_jalan_bandung_palimanan_52",
+    "stop_name": "Jalan Bandung - Palimanan 52",
+    "coordinate": "108.432012 -6.707481"
+  },
+  {
+    "stop_id": "bandung_jalan_bandung_palimanan_13",
+    "stop_name": "Jalan Bandung - Palimanan 13",
+    "coordinate": "108.431986 -6.707472"
+  },
+  {
+    "stop_id": "bandung_cinanjung",
+    "stop_name": "Cinanjung",
+    "coordinate": "107.802116 -6.918296"
+  },
+  {
+    "stop_id": "bandung_pangkalan_damri_tanjungsari",
+    "stop_name": "Pangkalan Damri Tanjungsari",
+    "coordinate": "107.797819 -6.905712"
+  },
+  {
+    "stop_id": "bandung_pasar_tanjungsari",
+    "stop_name": "Pasar Tanjungsari",
+    "coordinate": "107.796300 -6.908048"
+  },
+  {
+    "stop_id": "bandung_casa_de_aminda",
+    "stop_name": "Casa De Aminda",
+    "coordinate": "107.784458 -6.926849"
+  },
+  {
+    "stop_id": "bandung_griya_jatinangor_ii",
+    "stop_name": "Griya Jatinangor II",
+    "coordinate": "107.768958 -6.934907"
+  },
+  {
+    "stop_id": "bandung_universitas_mandiri",
+    "stop_name": "Universitas Mandiri",
+    "coordinate": "107.762303 -6.549625"
+  },
+  {
+    "stop_id": "bandung_jalan_raya_cileunyi_436",
+    "stop_name": "Jalan Raya Cileunyi 436",
+    "coordinate": "107.753234 -6.939830"
+  },
+  {
+    "stop_id": "bandung_jalan_raya_cileunyi_100a",
+    "stop_name": "Jalan Raya Cileunyi 100a",
+    "coordinate": "107.753094 -6.938882"
+  },
+  {
+    "stop_id": "bandung_jalan_raya_cinunuk_214",
+    "stop_name": "Jalan Raya Cinunuk 214",
+    "coordinate": "107.738616 -6.939446"
+  },
+  {
+    "stop_id": "bandung_borma_cinunuk",
+    "stop_name": "Borma Cinunuk",
+    "coordinate": "107.730973 -6.937453"
+  },
+  {
+    "stop_id": "bandung_dinas_perhubungan_jabar",
+    "stop_name": "Dinas Perhubungan Jabar",
+    "coordinate": "107.730526 -6.937151"
+  },
+  {
+    "stop_id": "bandung_jalan_a_h_nasution_236",
+    "stop_name": "Jalan A.H. Nasution 236",
+    "coordinate": "107.725927 -6.933162"
+  },
+  {
+    "stop_id": "bandung_sdn_050_cibiru",
+    "stop_name": "Sdn 050 Cibiru",
+    "coordinate": "107.721420 -6.934168"
+  },
+  {
+    "stop_id": "bandung_pangkalan_damri_cibiru",
+    "stop_name": "Pangkalan Damri Cibiru",
+    "coordinate": "107.719970 -6.923029"
+  },
+  {
+    "stop_id": "bandung_jalan_desa_cipadung",
+    "stop_name": "Jalan Desa Cipadung",
+    "coordinate": "107.719492 -6.923945"
+  },
+  {
+    "stop_id": "bandung_bunderan_cibiru",
+    "stop_name": "Bunderan Cibiru",
+    "coordinate": "107.717463 -6.935136"
+  },
+  {
+    "stop_id": "bandung_stasiun_tegalluar",
+    "stop_name": "Stasiun Tegalluar",
+    "coordinate": "107.715440 -6.964280"
+  },
+  {
+    "stop_id": "bandung_jalan_a_h_nasution_37a",
+    "stop_name": "Jalan A.H. Nasution 37a",
+    "coordinate": "107.712207 -6.929655"
+  },
+  {
+    "stop_id": "bandung_jalan_a_h_nasution_38",
+    "stop_name": "Jalan A.H. Nasution 38",
+    "coordinate": "107.712104 -6.929327"
+  },
+  {
+    "stop_id": "bandung_sdn_ciporeat",
+    "stop_name": "Sdn Ciporeat",
+    "coordinate": "107.711809 -6.902459"
+  },
+  {
+    "stop_id": "bandung_halte_stikes_bandung",
+    "stop_name": "Halte Stikes Bandung",
+    "coordinate": "107.709980 -6.935600"
+  },
+  {
+    "stop_id": "bandung_halte_cimincrang",
+    "stop_name": "Halte Cimincrang",
+    "coordinate": "107.702928 -6.946545"
+  },
+  {
+    "stop_id": "bandung_terminal_ujung_berung",
+    "stop_name": "Terminal Ujung Berung",
+    "coordinate": "107.702730 -6.914150"
+  },
+  {
+    "stop_id": "bandung_masjid_besar_ujung_berung",
+    "stop_name": "Masjid Besar Ujung Berung",
+    "coordinate": "107.700879 -6.913670"
+  },
+  {
+    "stop_id": "bandung_kartikasari_ujung_berung",
+    "stop_name": "Kartikasari Ujung Berung",
+    "coordinate": "107.698430 -6.913957"
+  },
+  {
+    "stop_id": "bandung_kimia_farma_ujung_berung",
+    "stop_name": "Kimia Farma Ujung Berung",
+    "coordinate": "107.698092 -6.914297"
+  },
+  {
+    "stop_id": "bandung_sdn_andir_kidul",
+    "stop_name": "Sdn Andir Kidul",
+    "coordinate": "107.695516 -6.913893"
+  },
+  {
+    "stop_id": "bandung_jalan_raya_ujungberung_55",
+    "stop_name": "Jalan Raya Ujungberung 55",
+    "coordinate": "107.694536 -6.912789"
+  },
+  {
+    "stop_id": "bandung_gani_factory_outlet",
+    "stop_name": "Gani Factory Outlet",
+    "coordinate": "107.691841 -6.912629"
+  },
+  {
+    "stop_id": "bandung_shop_and_drive_ujung_berung",
+    "stop_name": "Shop And Drive Ujung Berung",
+    "coordinate": "107.691155 -6.906091"
+  },
+  {
+    "stop_id": "bandung_rancabolang",
+    "stop_name": "Rancabolang",
+    "coordinate": "107.689607 -6.958642"
+  },
+  {
+    "stop_id": "bandung_sman_24_bandung",
+    "stop_name": "Sman 24 Bandung",
+    "coordinate": "107.688592 -6.908395"
+  },
+  {
+    "stop_id": "bandung_halte_pusjatan",
+    "stop_name": "Halte Pusjatan",
+    "coordinate": "107.686829 -6.907628"
+  },
+  {
+    "stop_id": "bandung_jalan_a_h_nasution_84",
+    "stop_name": "Jalan A.H. Nasution 84",
+    "coordinate": "107.684994 -6.906947"
+  },
+  {
+    "stop_id": "bandung_pool_damri_gedebage",
+    "stop_name": "Pool Damri Gedebage",
+    "coordinate": "107.681578 -6.943618"
+  },
+  {
+    "stop_id": "bandung_bulog_gedebage",
+    "stop_name": "Bulog Gedebage",
+    "coordinate": "107.681578 -6.943618"
+  },
+  {
+    "stop_id": "bandung_sdn_068_sindanglaya",
+    "stop_name": "Sdn 068 Sindanglaya",
+    "coordinate": "107.680486 -6.904996"
+  },
+  {
+    "stop_id": "bandung_kpp_cicadas",
+    "stop_name": "Kpp Cicadas",
+    "coordinate": "107.679044 -6.937526"
+  },
+  {
+    "stop_id": "bandung_suzuki_indo_sarana_bandung",
+    "stop_name": "Suzuki Indo Sarana Bandung",
+    "coordinate": "107.676864 -6.938007"
+  },
+  {
+    "stop_id": "bandung_bahana_bandung",
+    "stop_name": "Bahana Bandung",
+    "coordinate": "107.674588 -6.933339"
+  },
+  {
+    "stop_id": "bandung_jalan_a_h_nasution_68",
+    "stop_name": "Jalan A.H. Nasution, 68",
+    "coordinate": "107.669126 -6.904298"
+  },
+  {
+    "stop_id": "bandung_lapas_sukamiskin",
+    "stop_name": "Lapas Sukamiskin",
+    "coordinate": "107.669126 -6.904298"
+  },
+  {
+    "stop_id": "bandung_bpn_jabar",
+    "stop_name": "Bpn Jabar",
+    "coordinate": "107.668887 -7.090911"
+  },
+  {
+    "stop_id": "bandung_bpk_jabar",
+    "stop_name": "Bpk Jabar",
+    "coordinate": "107.668887 -7.090911"
+  },
+  {
+    "stop_id": "bandung_parakan_saat",
+    "stop_name": "Parakan Saat",
+    "coordinate": "107.668198 -6.932636"
+  },
+  {
+    "stop_id": "bandung_sanggar_hurip",
+    "stop_name": "Sanggar Hurip",
+    "coordinate": "107.667014 -6.937091"
+  },
+  {
+    "stop_id": "bandung_rs_hermina_rancamanik",
+    "stop_name": "Rs Hermina Rancamanik",
+    "coordinate": "107.666794 -6.904194"
+  },
+  {
+    "stop_id": "bandung_jalan_a_h_nasution_918",
+    "stop_name": "Jalan A.H. Nasution 918",
+    "coordinate": "107.660918 -6.903220"
+  },
+  {
+    "stop_id": "bandung_smkn_7_bandung",
+    "stop_name": "Smkn 7 Bandung",
+    "coordinate": "107.659982 -6.940639"
+  },
+  {
+    "stop_id": "bandung_smkn_9_bandung",
+    "stop_name": "Smkn 9 Bandung",
+    "coordinate": "107.656982 -6.940428"
+  },
+  {
+    "stop_id": "bandung_pengadilan_agama_bandung",
+    "stop_name": "Pengadilan Agama Bandung",
+    "coordinate": "107.656504 -6.912933"
+  },
+  {
+    "stop_id": "bandung_jalan_jendral_ahmad_yani_909_915",
+    "stop_name": "Jalan Jendral Ahmad Yani 909 - 915",
+    "coordinate": "107.655059 -6.901924"
+  },
+  {
+    "stop_id": "bandung_kantor_pos_sekejati",
+    "stop_name": "Kantor Pos Sekejati",
+    "coordinate": "107.650705 -6.942927"
+  },
+  {
+    "stop_id": "bandung_smk_medika_com",
+    "stop_name": "Smk Medika Com",
+    "coordinate": "107.646730 -6.943710"
+  },
+  {
+    "stop_id": "bandung_rsia_grha_bunda",
+    "stop_name": "Rsia Grha Bunda",
+    "coordinate": "107.645602 -6.913235"
+  },
+  {
+    "stop_id": "bandung_uninus",
+    "stop_name": "Uninus",
+    "coordinate": "107.644272 -6.945810"
+  },
+  {
+    "stop_id": "bandung_mustofa_sukapada",
+    "stop_name": "Mustofa Sukapada",
+    "coordinate": "107.643960 -6.899930"
+  },
+  {
+    "stop_id": "bandung_seberang_carrefour_kiaracondong",
+    "stop_name": "Seberang Carrefour Kiaracondong",
+    "coordinate": "107.641104 -6.946465"
+  },
+  {
+    "stop_id": "bandung_pabrik_badjoe",
+    "stop_name": "Pabrik Badjoe",
+    "coordinate": "107.638490 -6.946320"
+  },
+  {
+    "stop_id": "bandung_balai_besar_tekstil",
+    "stop_name": "Balai Besar Tekstil",
+    "coordinate": "107.637960 -6.911726"
+  },
+  {
+    "stop_id": "bandung_jalan_soekarno_hatta_496",
+    "stop_name": "Jalan Soekarno Hatta 496",
+    "coordinate": "107.636717 -6.947243"
+  },
+  {
+    "stop_id": "bandung_phh_mustofa_3",
+    "stop_name": "Phh Mustofa 3",
+    "coordinate": "107.634788 -6.897727"
+  },
+  {
+    "stop_id": "bandung_phh_mustofa_1",
+    "stop_name": "Phh. Mustofa 1",
+    "coordinate": "107.634681 -6.897686"
+  },
+  {
+    "stop_id": "bandung_phh_mustofa_2",
+    "stop_name": "Phh. Mustofa 2",
+    "coordinate": "107.634411 -6.898023"
+  },
+  {
+    "stop_id": "bandung_guntursari_wetan",
+    "stop_name": "Guntursari Wetan",
+    "coordinate": "107.633631 -6.945801"
+  },
+  {
+    "stop_id": "bandung_jalan_soekarno_hatta_517",
+    "stop_name": "Jalan Soekarno Hatta 517",
+    "coordinate": "107.631058 -6.948247"
+  },
+  {
+    "stop_id": "bandung_jalan_laswi_75",
+    "stop_name": "Jalan Laswi 75",
+    "coordinate": "107.629474 -6.922892"
+  },
+  {
+    "stop_id": "bandung_jalan_soekarno_hatta_476",
+    "stop_name": "Jalan Soekarno Hatta 476",
+    "coordinate": "107.629017 -6.949346"
+  },
+  {
+    "stop_id": "bandung_surapati_3",
+    "stop_name": "Surapati 3",
+    "coordinate": "107.627582 -6.899245"
+  },
+  {
+    "stop_id": "bandung_hotel_sepuluh",
+    "stop_name": "Hotel Sepuluh",
+    "coordinate": "107.626260 -6.930880"
+  },
+  {
+    "stop_id": "bandung_stie_inaba",
+    "stop_name": "Stie Inaba",
+    "coordinate": "107.622853 -6.949923"
+  },
+  {
+    "stop_id": "bandung_jalan_soekarno_hatta_518",
+    "stop_name": "Jalan Soekarno Hatta 518",
+    "coordinate": "107.622187 -6.949527"
+  },
+  {
+    "stop_id": "bandung_jalan_bkr_lingkar_selatan_10",
+    "stop_name": "Jalan Bkr Lingkar Selatan 10",
+    "coordinate": "107.621798 -6.937143"
+  },
+  {
+    "stop_id": "bandung_rskb_halmahera_siaga",
+    "stop_name": "Rskb Halmahera Siaga",
+    "coordinate": "107.615597 -6.906734"
+  },
+  {
+    "stop_id": "bandung_moch_ramdan",
+    "stop_name": "Moch. Ramdan",
+    "coordinate": "107.613012 -6.934526"
+  },
+  {
+    "stop_id": "bandung_cikapayang_1",
+    "stop_name": "Cikapayang 1",
+    "coordinate": "107.611824 -6.899003"
+  },
+  {
+    "stop_id": "bandung_cikapayang_2",
+    "stop_name": "Cikapayang 2",
+    "coordinate": "107.611824 -6.899003"
+  },
+  {
+    "stop_id": "bandung_museum_mandala_wangsit_siliwangi",
+    "stop_name": "Museum Mandala Wangsit Siliwangi",
+    "coordinate": "107.611070 -6.917325"
+  },
+  {
+    "stop_id": "bandung_telkom_lembong",
+    "stop_name": "Telkom Lembong",
+    "coordinate": "107.611055 -6.916694"
+  },
+  {
+    "stop_id": "bandung_halte_bkr_4_taman_lansia_regol",
+    "stop_name": "Halte Bkr 4 Taman Lansia Regol",
+    "coordinate": "107.609808 -6.937496"
+  },
+  {
+    "stop_id": "bandung_masjid_agung_al_ukkhuwah",
+    "stop_name": "Masjid Agung Al Ukkhuwah",
+    "coordinate": "107.608772 -6.910825"
+  },
+  {
+    "stop_id": "bandung_jalan_wastukancana_45",
+    "stop_name": "Jalan Wastukancana, 45",
+    "coordinate": "107.607805 -6.908848"
+  },
+  {
+    "stop_id": "bandung_karasak_utara",
+    "stop_name": "Karasak Utara",
+    "coordinate": "107.607475 -6.948262"
+  },
+  {
+    "stop_id": "bandung_hubdam_iii_siliwangi",
+    "stop_name": "Hubdam III Siliwangi",
+    "coordinate": "107.606614 -6.934524"
+  },
+  {
+    "stop_id": "bandung_jalan_kautamaan_istri",
+    "stop_name": "Jalan Kautamaan Istri",
+    "coordinate": "107.605431 -6.925582"
+  },
+  {
+    "stop_id": "bandung_simpang_pajajaran_cicendo",
+    "stop_name": "Simpang Pajajaran Cicendo",
+    "coordinate": "107.605210 -6.907220"
+  },
+  {
+    "stop_id": "bandung_stdi_bandung",
+    "stop_name": "Stdi Bandung",
+    "coordinate": "107.604651 -6.903944"
+  },
+  {
+    "stop_id": "bandung_halte_bkr_2_taman_tegalega",
+    "stop_name": "Halte Bkr 2 Taman Tegalega",
+    "coordinate": "107.604618 -6.937301"
+  },
+  {
+    "stop_id": "bandung_grandia_hotel",
+    "stop_name": "Grandia Hotel",
+    "coordinate": "107.604614 -6.901021"
+  },
+  {
+    "stop_id": "bandung_rs_mata_cicendo",
+    "stop_name": "Rs Mata Cicendo",
+    "coordinate": "107.604410 -6.910350"
+  },
+  {
+    "stop_id": "bandung_simpang_sudirman_otista",
+    "stop_name": "Simpang Sudirman Otista",
+    "coordinate": "107.603820 -6.920902"
+  },
+  {
+    "stop_id": "bandung_inhoftank",
+    "stop_name": "Inhoftank",
+    "coordinate": "107.603039 -6.942919"
+  },
+  {
+    "stop_id": "bandung_mekarwangi",
+    "stop_name": "Mekarwangi",
+    "coordinate": "107.602296 -6.952966"
+  },
+  {
+    "stop_id": "bandung_lapas_banceuy",
+    "stop_name": "Lapas Banceuy",
+    "coordinate": "107.600908 -6.949225"
+  },
+  {
+    "stop_id": "bandung_seberang_ampera_kebon_kawung",
+    "stop_name": "Seberang Ampera Kebon Kawung",
+    "coordinate": "107.600735 -6.912557"
+  },
+  {
+    "stop_id": "bandung_taman_westhoff",
+    "stop_name": "Taman Westhoff",
+    "coordinate": "107.598397 -6.900805"
+  },
+  {
+    "stop_id": "bandung_jalan_peta_85",
+    "stop_name": "Jalan Peta 85",
+    "coordinate": "107.597603 -6.938114"
+  },
+  {
+    "stop_id": "bandung_djunjunan_paskal",
+    "stop_name": "Djunjunan Paskal",
+    "coordinate": "107.596770 -6.900430"
+  },
+  {
+    "stop_id": "bandung_jalan_soekarno_hatta_388",
+    "stop_name": "Jalan Soekarno Hatta, 388",
+    "coordinate": "107.594479 -6.947334"
+  },
+  {
+    "stop_id": "bandung_tpu_pandu",
+    "stop_name": "Tpu Pandu",
+    "coordinate": "107.593120 -6.901330"
+  },
+  {
+    "stop_id": "bandung_pintu_keluar_terminal_leuwipanjang",
+    "stop_name": "Pintu Keluar Terminal Leuwipanjang",
+    "coordinate": "107.591188 -6.943595"
+  },
+  {
+    "stop_id": "bandung_sudirman_pasar_andir",
+    "stop_name": "Sudirman Pasar Andir",
+    "coordinate": "107.590384 -6.917825"
+  },
+  {
+    "stop_id": "bandung_sdn_raya_barat",
+    "stop_name": "Sdn Raya Barat",
+    "coordinate": "107.590384 -6.917825"
+  },
+  {
+    "stop_id": "bandung_djunjunan_giant",
+    "stop_name": "Djunjunan (Giant)",
+    "coordinate": "107.588480 -6.894850"
+  },
+  {
+    "stop_id": "bandung_griya_pasteur",
+    "stop_name": "Griya Pasteur",
+    "coordinate": "107.588350 -6.895226"
+  },
+  {
+    "stop_id": "bandung_perempatan_kopo_soekarno_hatta",
+    "stop_name": "Perempatan Kopo - Soekarno Hatta",
+    "coordinate": "107.587501 -6.940652"
+  },
+  {
+    "stop_id": "bandung_surya_sumantri_1",
+    "stop_name": "Surya Sumantri 1",
+    "coordinate": "107.581265 -6.891564"
+  },
+  {
+    "stop_id": "bandung_surya_sumantri_2",
+    "stop_name": "Surya Sumantri 2",
+    "coordinate": "107.581131 -6.881206"
+  },
+  {
+    "stop_id": "bandung_jalan_soekarno_hatta_198",
+    "stop_name": "Jalan Soekarno Hatta 198",
+    "coordinate": "107.580866 -6.939500"
+  },
+  {
+    "stop_id": "bandung_sdn_sukaraja",
+    "stop_name": "Sdn Sukaraja",
+    "coordinate": "107.578580 -6.891520"
+  },
+  {
+    "stop_id": "bandung_cibuntu_tengah",
+    "stop_name": "Cibuntu Tengah",
+    "coordinate": "107.577020 -6.924976"
+  },
+  {
+    "stop_id": "bandung_bundaran_cibereum",
+    "stop_name": "Bundaran Cibereum",
+    "coordinate": "107.574378 -6.917210"
+  },
+  {
+    "stop_id": "bandung_jalan_soekarno_hatta_8",
+    "stop_name": "Jalan Soekarno Hatta 8",
+    "coordinate": "107.574243 -6.918190"
+  },
+  {
+    "stop_id": "bandung_cibuntu_selatan",
+    "stop_name": "Cibuntu Selatan",
+    "coordinate": "107.573733 -6.931142"
+  },
+  {
+    "stop_id": "bandung_jalan_jend_sudirman_773",
+    "stop_name": "Jalan Jend. Sudirman, 773",
+    "coordinate": "107.571541 -6.914828"
+  },
+  {
+    "stop_id": "bandung_katapang",
+    "stop_name": "Katapang",
+    "coordinate": "107.555887 -6.992112"
+  },
+  {
+    "stop_id": "bandung_katapang_kaler",
+    "stop_name": "Katapang Kaler",
+    "coordinate": "107.555858 -6.992146"
+  },
+  {
+    "stop_id": "bandung_jalan_raya_simpang_456",
+    "stop_name": "Jalan Raya Simpang, 456",
+    "coordinate": "107.495804 -6.850388"
+  },
+  {
+    "stop_id": "bandung_jalan_kbp_east_entrance",
+    "stop_name": "Jalan Kbp East Entrance",
+    "coordinate": "107.494557 -6.852630"
+  },
+  {
+    "stop_id": "bandung_veteran",
+    "stop_name": "Veteran",
+    "coordinate": "107.6149871 -6.9203183"
+  },
+  {
+    "stop_id": "bandung_hardrock_fm",
+    "stop_name": "Hardrock Fm",
+    "coordinate": "107.5372209 -6.9297006"
+  },
+  {
+    "stop_id": "bandung_sulaksana",
+    "stop_name": "Sulaksana",
+    "coordinate": "107.6501219 -6.9050592"
+  },
+  {
+    "stop_id": "bandung_abdul_hamid",
+    "stop_name": "Abdul Hamid",
+    "coordinate": "107.6601315 -6.9022558"
+  },
+  {
+    "stop_id": "bandung_puslitbang_jalan_dan_jembatan",
+    "stop_name": "Puslitbang Jalan Dan Jembatan",
+    "coordinate": "107.6868381 -6.9076005"
+  },
+  {
+    "stop_id": "bandung_borma_nasution",
+    "stop_name": "Borma Nasution",
+    "coordinate": "107.6728195 -6.9155444"
+  },
+  {
+    "stop_id": "bandung_halte_nasution",
+    "stop_name": "Halte Nasution",
+    "coordinate": "107.7108475 -6.9262958"
+  },
+  {
+    "stop_id": "bandung_jembatan_pelangi_kiara_artha",
+    "stop_name": "Jembatan Pelangi (Kiara Artha)",
+    "coordinate": "107.6069211 -6.9139600"
+  },
+  {
+    "stop_id": "bandung_muj",
+    "stop_name": "Muj",
+    "coordinate": "107.6398599 -6.9142265"
+  },
+  {
+    "stop_id": "bandung_simpang_lima_a_yani",
+    "stop_name": "Simpang Lima (A. Yani)",
+    "coordinate": "107.6150751 -6.9223327"
+  },
+  {
+    "stop_id": "bandung_panin_bank",
+    "stop_name": "Panin Bank",
+    "coordinate": "107.6162306 -6.9222827"
+  },
+  {
+    "stop_id": "bandung_kasim",
+    "stop_name": "Kasim",
+    "coordinate": "107.6141931 -6.9220278"
+  },
+  {
+    "stop_id": "bandung_badan_keuangan_negara",
+    "stop_name": "Badan Keuangan Negara",
+    "coordinate": "107.6110563 -6.9216540"
+  },
+  {
+    "stop_id": "bandung_halte_otto_iskandardinata",
+    "stop_name": "Halte Otto Iskandardinata",
+    "coordinate": "107.6031926 -6.9353232"
+  },
+  {
+    "stop_id": "bandung_peta_muara",
+    "stop_name": "Peta Muara",
+    "coordinate": "107.5904973 -6.9335255"
+  },
+  {
+    "stop_id": "bandung_seberang_taman_sumringah",
+    "stop_name": "Seberang Taman Sumringah",
+    "coordinate": "107.6936525 -6.9546172"
+  },
+  {
+    "stop_id": "bandung_dinas_koperasi_dan_usaha_kecil",
+    "stop_name": "Dinas Koperasi Dan Usaha Kecil",
+    "coordinate": "107.6607424 -6.9394510"
+  },
+  {
+    "stop_id": "bandung_halte_smkn_6_bnn",
+    "stop_name": "Halte Smkn 6 (Bnn)",
+    "coordinate": "107.6768251 -6.9381147"
+  },
+  {
+    "stop_id": "bandung_gmw_motor",
+    "stop_name": "Gmw Motor",
+    "coordinate": "107.6776414 -6.9382415"
+  },
+  {
+    "stop_id": "bandung_halte_tmb_kantor_pos",
+    "stop_name": "Halte Tmb Kantor Pos",
+    "coordinate": "107.5972294 -6.9228306"
+  },
+  {
+    "stop_id": "bandung_depo_bangunan",
+    "stop_name": "Depo Bangunan",
+    "coordinate": "107.6711427 -6.9387112"
+  },
+  {
+    "stop_id": "bandung_lotte_mart",
+    "stop_name": "Lotte Mart",
+    "coordinate": "107.6693661 -6.9388296"
+  },
+  {
+    "stop_id": "bandung_showroom_hyundai",
+    "stop_name": "Showroom Hyundai",
+    "coordinate": "107.6463993 -6.9438349"
+  },
+  {
+    "stop_id": "bandung_samsat",
+    "stop_name": "Samsat",
+    "coordinate": "107.6396341 -6.9448799"
+  },
+  {
+    "stop_id": "bandung_unibi",
+    "stop_name": "Unibi",
+    "coordinate": "107.6480201 -6.9426097"
+  },
+  {
+    "stop_id": "bandung_jasa_raharja",
+    "stop_name": "Jasa Raharja",
+    "coordinate": "107.6581907 -6.9401098"
+  },
+  {
+    "stop_id": "bandung_halte_pt_suparma",
+    "stop_name": "Halte Pt Suparma",
+    "coordinate": "107.6601290 -6.9395873"
+  },
+  {
+    "stop_id": "bandung_halte_ariesta_yamaha",
+    "stop_name": "Halte Ariesta Yamaha",
+    "coordinate": "107.6635275 -6.9390038"
+  },
+  {
+    "stop_id": "bandung_halte_guru_minda",
+    "stop_name": "Halte Guru Minda",
+    "coordinate": "107.6776076 -6.9380031"
+  },
+  {
+    "stop_id": "bandung_sumbersari",
+    "stop_name": "Sumbersari",
+    "coordinate": "107.4964586 -6.9242070"
+  },
+  {
+    "stop_id": "bandung_naga_mas",
+    "stop_name": "Naga Mas",
+    "coordinate": "107.6347185 -6.9475841"
+  },
+  {
+    "stop_id": "bandung_sindangreret",
+    "stop_name": "Sindangreret",
+    "coordinate": "107.6199633 -6.8992503"
+  },
+  {
+    "stop_id": "bandung_ciguruwik",
+    "stop_name": "Ciguruwik",
+    "coordinate": "107.7281644 -6.9343449"
+  },
+  {
+    "stop_id": "bandung_cikalang",
+    "stop_name": "Cikalang",
+    "coordinate": "107.7455058 -6.9392224"
+  },
+  {
+    "stop_id": "bandung_vbi",
+    "stop_name": "Vbi",
+    "coordinate": "107.7499962 -6.9400253"
+  },
+  {
+    "stop_id": "bandung_halte_shakti",
+    "stop_name": "Halte Shakti",
+    "coordinate": "107.6970390 -6.9368072"
+  },
+  {
+    "stop_id": "bandung_ratnasasih_shelter",
+    "stop_name": "Ratnasasih Shelter",
+    "coordinate": "107.4687222 -6.8676799"
+  },
+  {
+    "stop_id": "bandung_jingganegara_shelter",
+    "stop_name": "Jingganegara Shelter",
+    "coordinate": "107.4693348 -6.8724723"
+  },
+  {
+    "stop_id": "bandung_subanglarang_shelter",
+    "stop_name": "Subanglarang Shelter",
+    "coordinate": "107.4651882 -6.8676967"
+  },
+  {
+    "stop_id": "bandung_cbcs",
+    "stop_name": "Cbcs",
+    "coordinate": "107.4687939 -6.8686229"
+  },
+  {
+    "stop_id": "bandung_pasteur_1",
+    "stop_name": "Pasteur 1",
+    "coordinate": "107.5847523 -6.8924854"
+  },
+  {
+    "stop_id": "bandung_seberang_tpu_pandu",
+    "stop_name": "Seberang Tpu Pandu",
+    "coordinate": "107.5937497 -6.8984447"
+  },
+  {
+    "stop_id": "bandung_kasmin",
+    "stop_name": "Kasmin",
+    "coordinate": "107.5999144 -6.9203193"
+  },
+  {
+    "stop_id": "bandung_asep_berlian",
+    "stop_name": "Asep Berlian",
+    "coordinate": "107.6427515 -6.9090314"
+  },
+  {
+    "stop_id": "bandung_samping_spbu_laswi",
+    "stop_name": "Samping Spbu Laswi",
+    "coordinate": "107.6279858 -6.9236338"
+  },
+  {
+    "stop_id": "bandung_sukasenang_raya",
+    "stop_name": "Sukasenang Raya",
+    "coordinate": "107.6371382 -6.8984891"
+  },
+  {
+    "stop_id": "bandung_bkkbn",
+    "stop_name": "Bkkbn",
+    "coordinate": "106.5876272 -6.5170288"
+  },
+  {
+    "stop_id": "bandung_surapati_1",
+    "stop_name": "Surapati 1",
+    "coordinate": "107.6293063 -6.8998333"
+  },
+  {
+    "stop_id": "bandung_surapati_2",
+    "stop_name": "Surapati 2",
+    "coordinate": "107.6203409 -6.8992534"
+  },
+  {
+    "stop_id": "bandung_lemahnendeut",
+    "stop_name": "Lemahnendeut",
+    "coordinate": "107.6407190 -6.8993375"
+  },
+  {
+    "stop_id": "bandung_sarimanis",
+    "stop_name": "Sarimanis",
+    "coordinate": "107.5767784 -6.8795733"
+  },
+  {
+    "stop_id": "bandung_rajawali_2",
+    "stop_name": "Rajawali 2",
+    "coordinate": "107.5886711 -6.9162896"
+  },
+  {
+    "stop_id": "bandung_masjid_saifuddaulah",
+    "stop_name": "Masjid Saifuddaulah",
+    "coordinate": "107.6050429 -6.9147973"
+  },
+  {
+    "stop_id": "bandung_arya_graha",
+    "stop_name": "Arya Graha",
+    "coordinate": "107.6729709 -6.9385828"
+  },
+  {
+    "stop_id": "bandung_halte_carrefour",
+    "stop_name": "Halte Carrefour",
+    "coordinate": "107.6411219 -6.9457769"
+  },
+  {
+    "stop_id": "bandung_garuda",
+    "stop_name": "Garuda",
+    "coordinate": "107.5780072 -6.9118754"
+  },
+  {
+    "stop_id": "bandung_taman_sakura_indah",
+    "stop_name": "Taman Sakura Indah",
+    "coordinate": "107.5787970 -6.9361722"
+  },
+  {
+    "stop_id": "bandung_altamira",
+    "stop_name": "Altamira",
+    "coordinate": "107.5974982 -6.9475507"
+  },
+  {
+    "stop_id": "bandung_magna_raya",
+    "stop_name": "Magna Raya",
+    "coordinate": "107.6887946 -6.9540265"
+  },
+  {
+    "stop_id": "bandung_taman_sumringah",
+    "stop_name": "Taman Sumringah",
+    "coordinate": "107.6949164 -6.9559819"
+  },
+  {
+    "stop_id": "bandung_sukaraja_ii",
+    "stop_name": "Sukaraja II",
+    "coordinate": "107.5785023 -6.8914409"
+  },
+  {
+    "stop_id": "bandung_cipedes_selatan",
+    "stop_name": "Cipedes Selatan",
+    "coordinate": "107.5904046 -6.8961874"
+  },
+  {
+    "stop_id": "bandung_cipedes_hilir",
+    "stop_name": "Cipedes Hilir",
+    "coordinate": "107.5905255 -6.8964877"
+  },
+  {
+    "stop_id": "bandung_underpass_cibogo",
+    "stop_name": "Underpass Cibogo",
+    "coordinate": "107.5789443 -6.8911346"
+  },
+  {
+    "stop_id": "bandung_halte_tmb_sukabumi",
+    "stop_name": "Halte Tmb Sukabumi",
+    "coordinate": "107.5933416 -6.945316684"
+  },
+  {
+    "stop_id": "bandung_tugu_tunas_kelapa",
+    "stop_name": "Tugu Tunas Kelapa",
+    "coordinate": "107.5987167 -6.9162362"
+  },
+  {
+    "stop_id": "bandung_jalan_kebon_sirih_43a",
+    "stop_name": "Jalan Kebon Sirih 43a",
+    "coordinate": "107.6079176 -6.9127704"
+  },
+  {
+    "stop_id": "bandung_jalan_doktor_rum_1719",
+    "stop_name": "Jalan Doktor Rum 17 - 19",
+    "coordinate": "107.47836098221882 -6.864430628016887"
+  },
+  {
+    "stop_id": "bandung_jalan_moch_toha_2",
+    "stop_name": "Jalan Moch. Toha 2",
+    "coordinate": "107.7128557 -6.946652"
+  },
+  {
+    "stop_id": "bandung_kcp_bca_dewi_sartika",
+    "stop_name": "Kcp Bca Dewi Sartika",
+    "coordinate": "107.62431000002405 -6.949422849852001"
+  },
+  {
+    "stop_id": "bandung_pasar_ancol_karapitan",
+    "stop_name": "Pasar Ancol Karapitan",
+    "coordinate": "107.6036051 -6.92385"
+  },
+  {
+    "stop_id": "bandung_lauk_emas",
+    "stop_name": "Lauk Emas",
+    "coordinate": "107.5992191 -6.92208"
+  },
+  {
+    "stop_id": "bandung_rs_muhammadiyah",
+    "stop_name": "Rs Muhammadiyah",
+    "coordinate": "107.5858421 -6.9060304"
+  },
+  {
+    "stop_id": "bandung_isbi",
+    "stop_name": "Isbi",
+    "coordinate": "107.3516439 -6.8328067"
+  }
+]

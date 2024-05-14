@@ -1,0 +1,1082 @@
+[
+  {
+    "stop": "Terminal Leuwipanjang",
+    "coordinate": "107.5933416 -6.945316684"
+  },
+  {
+    "stop": "Hotel Grand Pasundan",
+    "coordinate": "107.5934073 -6.936179925"
+  },
+  {
+    "stop": "Bumi Kopo Kencana",
+    "coordinate": "107.5904733 -6.933605282"
+  },
+  {
+    "stop": "Mall Festival Citylink",
+    "coordinate": "107.5872154 -6.929106288"
+  },
+  {
+    "stop": "Simpang Pasir Koja 1",
+    "coordinate": "107.5849961 -6.927041354"
+  },
+  {
+    "stop": "Spbu Pasir Koja",
+    "coordinate": "107.5793279 -6.929143507"
+  },
+  {
+    "stop": "Hotel Soreang A",
+    "coordinate": "107.5309883 -7.0141353"
+  },
+  {
+    "stop": "Mall Pelayanan Publik A",
+    "coordinate": "107.52937576659983 -7.02009357736643"
+  },
+  {
+    "stop": "Plaza Pemkab Bandung A",
+    "coordinate": "107.53066451262978 -7.022412460312702"
+  },
+  {
+    "stop": "Simpang Desa Soreang",
+    "coordinate": "107.5288179 -7.0288143"
+  },
+  {
+    "stop": "Pasar Ikan Modern",
+    "coordinate": "107.541221 -7.0305054"
+  },
+  {
+    "stop": "Rsud Otto Iskandar Dinata",
+    "coordinate": "107.5424709 -7.0273021"
+  },
+  {
+    "stop": "Pengendapan Tmp 1d",
+    "coordinate": "107.53040549393548 -7.016067982808144"
+  },
+  {
+    "stop": "Hotel Soreang B",
+    "coordinate": "107.5306957 -7.0141711"
+  },
+  {
+    "stop": "Sumber Sari Junction",
+    "coordinate": "107.57623897370986 -6.930378909848716"
+  },
+  {
+    "stop": "Halte Soekarno Hatta 3 (Pasar Induk)",
+    "coordinate": "107.58310489799297 -6.941649827156075"
+  },
+  {
+    "stop": "Halte Soekarno Hatta Leuwi Panjang",
+    "coordinate": "107.59361491207835 -6.94591498208632"
+  },
+  {
+    "stop": "Ikea Kota Baru Parahyangan",
+    "coordinate": "107.46679506606095 -6.86608173958698"
+  },
+  {
+    "stop": "Parahyangan Timur",
+    "coordinate": "107.4712139 -6.8663029"
+  },
+  {
+    "stop": "Parahyangan Timur 2",
+    "coordinate": "107.47339612975769 -6.866254143948701"
+  },
+  {
+    "stop": "Parahyangan Utara",
+    "coordinate": "107.47836098221882 -6.864430628016887"
+  },
+  {
+    "stop": "Tatar Wangsakerta A",
+    "coordinate": "107.4805318 -6.8619524"
+  },
+  {
+    "stop": "Bale Pare A",
+    "coordinate": "107.4897199 -6.8567911"
+  },
+  {
+    "stop": "Stei Lppm A",
+    "coordinate": "107.4987188 -6.8573622"
+  },
+  {
+    "stop": "Rs Karisma Cimareme A",
+    "coordinate": "107.5028149 -6.8628647"
+  },
+  {
+    "stop": "Rs Imc A",
+    "coordinate": "107.5100646 -6.8633897"
+  },
+  {
+    "stop": "Masjid Ar-Ridwan A",
+    "coordinate": "107.5189575 -6.8675129"
+  },
+  {
+    "stop": "Padasuka Indah A",
+    "coordinate": "107.5263999 -6.8684918"
+  },
+  {
+    "stop": "Ranca Belut A",
+    "coordinate": "107.5321552 -6.868807"
+  },
+  {
+    "stop": "Pln Cisangkan A",
+    "coordinate": "107.5364591 -6.8703828"
+  },
+  {
+    "stop": "Bri Kota Cimahi",
+    "coordinate": "107.5443525 -6.8748796"
+  },
+  {
+    "stop": "Rsud Cibabat A",
+    "coordinate": "107.5503877 -6.8796303"
+  },
+  {
+    "stop": "Dinas Sosial (Superindo)",
+    "coordinate": "107.554315 -6.8859726"
+  },
+  {
+    "stop": "Jalan Budi",
+    "coordinate": "107.5580608 -6.8921787"
+  },
+  {
+    "stop": "Sman 13 A",
+    "coordinate": "107.5648355 -6.9033251"
+  },
+  {
+    "stop": "Paledang",
+    "coordinate": "107.5657602 -6.9048494"
+  },
+  {
+    "stop": "Halte Rajawali Barat",
+    "coordinate": "107.5701692 -6.9108914"
+  },
+  {
+    "stop": "Plaza Telkom Rajawali",
+    "coordinate": "107.5754041 -6.9129112"
+  },
+  {
+    "stop": "Rajawali 1",
+    "coordinate": "107.5782084 -6.9137093"
+  },
+  {
+    "stop": "Dungus Cariang",
+    "coordinate": "107.582906 -6.914816"
+  },
+  {
+    "stop": "Sma Trinitas",
+    "coordinate": "107.5917182 -6.9164853"
+  },
+  {
+    "stop": "Rs Kebon Jati",
+    "coordinate": "107.5966128 -6.9162875"
+  },
+  {
+    "stop": "Sma Pasundan",
+    "coordinate": "107.5996179 -6.9161873"
+  },
+  {
+    "stop": "Perintis Kemerdekaan",
+    "coordinate": "107.6078989 -6.9139566"
+  },
+  {
+    "stop": "Lembong",
+    "coordinate": "107.6098614 -6.9164696"
+  },
+  {
+    "stop": "Alun-Alun Bandung",
+    "coordinate": "107.607149 -6.9212854"
+  },
+  {
+    "stop": "Keb Hana Bank",
+    "coordinate": "107.6020606 -6.920606"
+  },
+  {
+    "stop": "Gki Anugerah",
+    "coordinate": "107.59751 -6.9200655"
+  },
+  {
+    "stop": "Mayapada Tower",
+    "coordinate": "107.5917304 -6.9193943"
+  },
+  {
+    "stop": "Toko Ambon",
+    "coordinate": "107.5855174 -6.9186691"
+  },
+  {
+    "stop": "Kemenag Kanwil Jabar",
+    "coordinate": "107.5771095 -6.9176446"
+  },
+  {
+    "stop": "Optik Krida",
+    "coordinate": "107.5720023 -6.9155783"
+  },
+  {
+    "stop": "Halte Sudirman 3",
+    "coordinate": "107.5695853 -6.9115427"
+  },
+  {
+    "stop": "Kebon Kopi",
+    "coordinate": "107.5657296 -6.9048651"
+  },
+  {
+    "stop": "Sman 13 B",
+    "coordinate": "107.5648355 -6.9033251"
+  },
+  {
+    "stop": "Cilembar",
+    "coordinate": "107.557975 -6.8923625"
+  },
+  {
+    "stop": "Rs Mitra Kasih",
+    "coordinate": "107.5527907 -6.8837679"
+  },
+  {
+    "stop": "Rsud Cibabat B",
+    "coordinate": "107.5502972 -6.8796777"
+  },
+  {
+    "stop": "Smpn 6 Cimahi",
+    "coordinate": "107.54525 -6.8772911"
+  },
+  {
+    "stop": "Gedung 4",
+    "coordinate": "107.5416975 -6.8800669"
+  },
+  {
+    "stop": "Buana",
+    "coordinate": "107.54067 -6.875938"
+  },
+  {
+    "stop": "Pln Cisangkan B",
+    "coordinate": "107.5364759 -6.8705243"
+  },
+  {
+    "stop": "Ranca Belut B",
+    "coordinate": "107.5319061 -6.8688664"
+  },
+  {
+    "stop": "Padasuka Indah B",
+    "coordinate": "107.5260753 -6.8684908"
+  },
+  {
+    "stop": "Masjid Ar-Ridwan B",
+    "coordinate": "107.5189575 -6.8675129"
+  },
+  {
+    "stop": "Rs Imc B",
+    "coordinate": "107.5102544 -6.8635677"
+  },
+  {
+    "stop": "Rs Karisma Cimareme B",
+    "coordinate": "107.5029568 -6.8630934"
+  },
+  {
+    "stop": "Stei Lppm B",
+    "coordinate": "107.4986092 -6.857496"
+  },
+  {
+    "stop": "Bale Pare B",
+    "coordinate": "107.490153 -6.856775"
+  },
+  {
+    "stop": "Tatar Wangsakerta B",
+    "coordinate": "107.4816286 -6.8612712"
+  },
+  {
+    "stop": "Parahyangan Selatan",
+    "coordinate": "107.4738238 -6.8665817"
+  },
+  {
+    "stop": "Bec (Bandung Electronic Center)",
+    "coordinate": "107.6094543 -6.9081446"
+  },
+  {
+    "stop": "Museum Kota Bandung",
+    "coordinate": "107.6097021 -6.9101076"
+  },
+  {
+    "stop": "Halte Merdeka",
+    "coordinate": "107.6079176 -6.9127704"
+  },
+  {
+    "stop": "Toko Mas Abc",
+    "coordinate": "107.6040007 -6.9230321"
+  },
+  {
+    "stop": "Simpang Ijan",
+    "coordinate": "107.6036723 -6.9280476"
+  },
+  {
+    "stop": "Lapang Tegalega Bandung",
+    "coordinate": "107.60345583071458 -6.933908293461368"
+  },
+  {
+    "stop": "Pt Inti A",
+    "coordinate": "107.6063532 -6.9389947"
+  },
+  {
+    "stop": "Madurasa Tengah",
+    "coordinate": "107.6084009 -6.9451896"
+  },
+  {
+    "stop": "Pln Up3 Bandung B",
+    "coordinate": "107.61215072885715 -6.948277248722487"
+  },
+  {
+    "stop": "Pt Len Industri B",
+    "coordinate": "107.619152 -6.9489877"
+  },
+  {
+    "stop": "Lpkia B",
+    "coordinate": "107.6246500000261 -6.949253499834332"
+  },
+  {
+    "stop": "Bangunan Mart B",
+    "coordinate": "107.62807510187945 -6.949131549742439"
+  },
+  {
+    "stop": "Taman Bypass Buah Batu",
+    "coordinate": "107.63468454817125 -6.947409280712815"
+  },
+  {
+    "stop": "Swadarma Bni",
+    "coordinate": "107.63641072494754 -6.950629068421015"
+  },
+  {
+    "stop": "Pasar Kordon B",
+    "coordinate": "107.63875854235577 -6.953332200903357"
+  },
+  {
+    "stop": "Bluebird B",
+    "coordinate": "107.63959000002605 -6.958261552433819"
+  },
+  {
+    "stop": "Puskesmas Kujangsari B",
+    "coordinate": "107.63822291537528 -6.964777656379894"
+  },
+  {
+    "stop": "Transmart Buah Batu",
+    "coordinate": "107.63779874607154 -6.967165452721971"
+  },
+  {
+    "stop": "Permata Buah Batu",
+    "coordinate": "107.63654332313128 -6.971341276150079"
+  },
+  {
+    "stop": "Podomoro",
+    "coordinate": "107.62919389548568 -6.9758444643759505"
+  },
+  {
+    "stop": "Ahass",
+    "coordinate": "107.63396000148052 -6.975234415114301"
+  },
+  {
+    "stop": "Griya Bandung Asri",
+    "coordinate": "107.63290072885624 -6.985685455668461"
+  },
+  {
+    "stop": "Alfamart Spbu Bojongsoang",
+    "coordinate": "107.63171218653764 -6.9912483168815855"
+  },
+  {
+    "stop": "Masjid Jami' Baitul Huda B",
+    "coordinate": "107.63194696863103 -7.000189142189134"
+  },
+  {
+    "stop": "Apotek K24 Baleendah",
+    "coordinate": "107.63070562700456 -7.0054370252363976"
+  },
+  {
+    "stop": "Kejari Bale Bandung",
+    "coordinate": "107.62375000003514 -7.005871566521602"
+  },
+  {
+    "stop": "Rs Al-Ihsan",
+    "coordinate": "107.62443645695718 -7.006791482046691"
+  },
+  {
+    "stop": "Baleendah",
+    "coordinate": "107.6156089 -6.9879481"
+  },
+  {
+    "stop": "Masjid Al-Amanah",
+    "coordinate": "107.62881801723505 -7.005665727880287"
+  },
+  {
+    "stop": "Matahari Land",
+    "coordinate": "107.63125437305175 -7.003780917129501"
+  },
+  {
+    "stop": "Masjid Jami' Baitul Huda A",
+    "coordinate": "107.63177906750195 -7.000071507201208"
+  },
+  {
+    "stop": "Bubur Ayam H. Amid",
+    "coordinate": "107.6307540207002 -6.994541663407603"
+  },
+  {
+    "stop": "Borma Bojongsoang",
+    "coordinate": "107.6330385423757 -6.98428026168127"
+  },
+  {
+    "stop": "Sd Negeri Lengkong",
+    "coordinate": "107.6351507288705 -6.9761670118941375"
+  },
+  {
+    "stop": "Puskesmas Bojongsoang",
+    "coordinate": "107.6374074 -6.9676031"
+  },
+  {
+    "stop": "Bluebird A",
+    "coordinate": "107.63954655956672 -6.957519602733673"
+  },
+  {
+    "stop": "Pasar Kordon A",
+    "coordinate": "107.6389029153914 -6.95401765174132"
+  },
+  {
+    "stop": "Japnas",
+    "coordinate": "107.63643483383315 -6.9511009003490525"
+  },
+  {
+    "stop": "Pt Medal Sekarwangi",
+    "coordinate": "107.62545354773773 -6.934827755648297"
+  },
+  {
+    "stop": "Bangunan Mart A",
+    "coordinate": "107.62812000002147 -6.949364149864763"
+  },
+  {
+    "stop": "Lpkia A",
+    "coordinate": "107.62431000002405 -6.949422849852001"
+  },
+  {
+    "stop": "Pt Len Industri A",
+    "coordinate": "107.619152 -6.9489877"
+  },
+  {
+    "stop": "Pln Up3 Bandung A",
+    "coordinate": "107.61209708467571 -6.948511549560247"
+  },
+  {
+    "stop": "Mohammad Toha",
+    "coordinate": "107.6084358310604 -6.944171985691954"
+  },
+  {
+    "stop": "Taman Tegalega",
+    "coordinate": "107.6036999 -6.9372463"
+  },
+  {
+    "stop": "Sekolah Mohammad Toha",
+    "coordinate": "107.60669 -6.93041"
+  },
+  {
+    "stop": "Itc Kebon Kelapa",
+    "coordinate": "107.60673 -6.92754"
+  },
+  {
+    "stop": "Grand Yogya Kepatihan",
+    "coordinate": "107.6036051 -6.92385"
+  },
+  {
+    "stop": "Banceuy",
+    "coordinate": "107.6066134 -6.9188699"
+  },
+  {
+    "stop": "Stasiun Timur",
+    "coordinate": "107.6044803 -6.9153549"
+  },
+  {
+    "stop": "Stasiun Bandung",
+    "coordinate": "107.6029303 -6.9125954"
+  },
+  {
+    "stop": "Sman 6 Bandung",
+    "coordinate": "107.5978589 -6.9114176"
+  },
+  {
+    "stop": "Sdn Pajajaran",
+    "coordinate": "107.5999956 -6.9067937"
+  },
+  {
+    "stop": "Sthb",
+    "coordinate": "107.6043586 -6.9065179"
+  },
+  {
+    "stop": "Rumah Sakit Imanuel A",
+    "coordinate": "107.5939306 -6.936414"
+  },
+  {
+    "stop": "Pintu Keluar Terminal Tegalega",
+    "coordinate": "107.5974891 -6.93383"
+  },
+  {
+    "stop": "Astana Anyar Rsia Kota Bandung",
+    "coordinate": "107.600639 -6.9293733"
+  },
+  {
+    "stop": "Terminal St. Hall",
+    "coordinate": "107.5999651 -6.91605"
+  },
+  {
+    "stop": "Halte Smkn 1 Bandung",
+    "coordinate": "107.6089856 -6.913012"
+  },
+  {
+    "stop": "Riau XL",
+    "coordinate": "107.6096233 -6.9067978"
+  },
+  {
+    "stop": "Hotel the One-O-One A",
+    "coordinate": "107.5996253 -6.9110899"
+  },
+  {
+    "stop": "Taman Radio",
+    "coordinate": "107.6089351 -6.9026735"
+  },
+  {
+    "stop": "Kartika Sari A",
+    "coordinate": "107.6130412 -6.8914958"
+  },
+  {
+    "stop": "Rumah Sakit Santo Borromeus A",
+    "coordinate": "107.6128839 -6.8944726"
+  },
+  {
+    "stop": "Unikom",
+    "coordinate": "107.6151292 -6.8868878"
+  },
+  {
+    "stop": "Unpad Dipatiukur",
+    "coordinate": "107.6178302 -6.8923042"
+  },
+  {
+    "stop": "Rumah Sakit Santo Borromeus B",
+    "coordinate": "107.613435 -6.8948767"
+  },
+  {
+    "stop": "Kartika Sari B",
+    "coordinate": "107.6129141 -6.8975176"
+  },
+  {
+    "stop": "Seberang Taman Radio",
+    "coordinate": "107.6089351 -6.9026735"
+  },
+  {
+    "stop": "Hotel the One-O-One B",
+    "coordinate": "107.5996253 -6.9110899"
+  },
+  {
+    "stop": "Bandung Indah Plaza",
+    "coordinate": "107.6109188 -6.9097748"
+  },
+  {
+    "stop": "Bank Indonesia",
+    "coordinate": "107.6090686 -6.9145193"
+  },
+  {
+    "stop": "Pasar Baru Bandung",
+    "coordinate": "107.6044519 -6.9164303"
+  },
+  {
+    "stop": "Jalan Dalem Kaum",
+    "coordinate": "107.5992191 -6.92208"
+  },
+  {
+    "stop": "Ibu Inggit Garnasih",
+    "coordinate": "107.6039255 -6.9314493"
+  },
+  {
+    "stop": "Pasar Tegalega",
+    "coordinate": "107.6063649 -6.936505"
+  },
+  {
+    "stop": "Simpang Mohamad Toha",
+    "coordinate": "107.6055097 -6.9375586"
+  },
+  {
+    "stop": "Rumah Sakit Imanuel B",
+    "coordinate": "107.5933501 -6.937395"
+  },
+  {
+    "stop": "Halte Unpad Dipatiukur",
+    "coordinate": "107.6178302 -6.8923042"
+  },
+  {
+    "stop": "Panatayuda A",
+    "coordinate": "107.6162121 -6.8979268"
+  },
+  {
+    "stop": "Lapangan Gasibu A (Taman Lansia)",
+    "coordinate": "107.6199289 -6.901132"
+  },
+  {
+    "stop": "Pusdai A (Rri)",
+    "coordinate": "107.6241889 -6.9010136"
+  },
+  {
+    "stop": "Lapangan Supratman A (Smpn 14)",
+    "coordinate": "107.630157 -6.9081075"
+  },
+  {
+    "stop": "Taman Pramuka",
+    "coordinate": "107.6265967 -6.9105798"
+  },
+  {
+    "stop": "Hotel Grand Tebu",
+    "coordinate": "107.6288644 -6.9130163"
+  },
+  {
+    "stop": "Bandung Creative Hub A",
+    "coordinate": "107.6313724 -6.918349"
+  },
+  {
+    "stop": "Hotel Horison A",
+    "coordinate": "107.6253125 -6.9343466"
+  },
+  {
+    "stop": "Simpang by Pass Soekarno Hatta A",
+    "coordinate": "107.6091213 -6.9473658"
+  },
+  {
+    "stop": "Spbu Moh.Toha",
+    "coordinate": "107.6115668 -6.9546052"
+  },
+  {
+    "stop": "Terminal Cileunyi",
+    "coordinate": "107.7511051 -6.94048"
+  },
+  {
+    "stop": "Ipdn A",
+    "coordinate": "107.7652049 -6.9356267"
+  },
+  {
+    "stop": "Pangkalan Damri Jatinangor",
+    "coordinate": "107.7758563 -6.9316585"
+  },
+  {
+    "stop": "Unpad Jatinagor",
+    "coordinate": "107.7765085 -6.9325281"
+  },
+  {
+    "stop": "Jatinangor Town Square",
+    "coordinate": "107.7712456 -6.9340124"
+  },
+  {
+    "stop": "Ipdn B",
+    "coordinate": "107.7651656 -6.9357687"
+  },
+  {
+    "stop": "Panyawungan",
+    "coordinate": "107.7511051 -6.94048"
+  },
+  {
+    "stop": "Jl. H. Tatang Sumantri",
+    "coordinate": "107.6114644 -6.9547463"
+  },
+  {
+    "stop": "Simpang by Pass Soekarno Hatta B",
+    "coordinate": "107.6087487 -6.9483802"
+  },
+  {
+    "stop": "Halte Bkr 5 Pamager Sari",
+    "coordinate": "107.6067581 -6.9374679"
+  },
+  {
+    "stop": "Hotel Horison B",
+    "coordinate": "107.6251519 -6.9342818"
+  },
+  {
+    "stop": "Bandung Creative Hub B",
+    "coordinate": "107.631219 -6.9184662"
+  },
+  {
+    "stop": "Spbu Ahmad Yani",
+    "coordinate": "107.6339249 -6.9129503"
+  },
+  {
+    "stop": "Lapangan Supratman B (Sd Ciujung)",
+    "coordinate": "107.6296905 -6.9072435"
+  },
+  {
+    "stop": "Pusdai B (Sma Alfa Centauri)",
+    "coordinate": "107.6241716 -6.9012082"
+  },
+  {
+    "stop": "Lapangan Gasibu B (Taman Lansia)",
+    "coordinate": "107.6201481  -6.9013276"
+  },
+  {
+    "stop": "Panatayuda B",
+    "coordinate": "107.6161299 -6.8979463"
+  },
+  {
+    "stop": "Pasar Bunga Wastu Kencana",
+    "coordinate": "107.607265 -6.9048943"
+  },
+  {
+    "stop": "Cicendo",
+    "coordinate": "107.6044529 -6.9075468"
+  },
+  {
+    "stop": "Pintu Barat Stasiun Bandung",
+    "coordinate": "107.6029304 -6.9126273"
+  },
+  {
+    "stop": "Abdul Rivai",
+    "coordinate": "107.6029269 -6.904267"
+  },
+  {
+    "stop": "Dr. Otten",
+    "coordinate": "107.5996034 -6.9021781"
+  },
+  {
+    "stop": "Rs. Hasan Sadikin",
+    "coordinate": "107.5993726 -6.8961604"
+  },
+  {
+    "stop": "Gki Kebon Jati",
+    "coordinate": "107.5987167 -6.9162362"
+  },
+  {
+    "stop": "Btc",
+    "coordinate": "107.5853487 -6.894195"
+  },
+  {
+    "stop": "Borma Dakota",
+    "coordinate": "107.5726332 -6.8935801"
+  },
+  {
+    "stop": "Gunung Batu Mentor",
+    "coordinate": "107.5673186 -6.8873601"
+  },
+  {
+    "stop": "Gunung Batu",
+    "coordinate": "107.5666744 -6.889252"
+  },
+  {
+    "stop": "Babakan Ciparay",
+    "coordinate": "107.7132426 -7.0357112"
+  },
+  {
+    "stop": "Mall Summarecon Bandung",
+    "coordinate": "107.6991477 -6.9555667"
+  },
+  {
+    "stop": "Stasiun Gedebage",
+    "coordinate": "107.6989816 -6.9331774"
+  },
+  {
+    "stop": "Halte Rs Al Islam",
+    "coordinate": "107.669306 -6.9387514"
+  },
+  {
+    "stop": "Kawaluyaan",
+    "coordinate": "107.6635231 -6.9389469"
+  },
+  {
+    "stop": "Halte Metro",
+    "coordinate": "107.6583047 -6.9403106"
+  },
+  {
+    "stop": "Halte Soekarno Hatta 4",
+    "coordinate": "107.6464771 -6.9437949"
+  },
+  {
+    "stop": "Halte Griya",
+    "coordinate": "107.6444764 -6.9221607"
+  },
+  {
+    "stop": "Seberang Ampera Soekarno Hatta",
+    "coordinate": "107.6329776 -6.9482293"
+  },
+  {
+    "stop": "Jalan Soekarno Hatta",
+    "coordinate": "107.6329776 -6.9482293"
+  },
+  {
+    "stop": "Bandung Convention Center",
+    "coordinate": "107.6328349 -6.9143539"
+  },
+  {
+    "stop": "Suka Ati",
+    "coordinate": "107.6215656 -6.9491645"
+  },
+  {
+    "stop": "Pasirluyu Selatan",
+    "coordinate": "107.6215656 -6.9491645"
+  },
+  {
+    "stop": "Sai",
+    "coordinate": "107.614544 -6.883455"
+  },
+  {
+    "stop": "Simpang Cibaduyut",
+    "coordinate": "107.5908461 -6.9727951"
+  },
+  {
+    "stop": "Astra Biz Center",
+    "coordinate": "107.5858421 -6.9060304"
+  },
+  {
+    "stop": "Pasar Caringin",
+    "coordinate": "107.5844282 -6.9430135"
+  },
+  {
+    "stop": "Terusan Suryani",
+    "coordinate": "107.580869 -6.9206062"
+  },
+  {
+    "stop": "Elang",
+    "coordinate": "107.5755676 -6.9139632"
+  },
+  {
+    "stop": "Ypp Teknik (Holis)",
+    "coordinate": "107.5740641 -6.9279358"
+  },
+  {
+    "stop": "Pertigaan Jalan Holis",
+    "coordinate": "107.5740641 -6.9279358"
+  },
+  {
+    "stop": "Stt Mandala",
+    "coordinate": "107.3516439 -6.8328067"
+  },
+  {
+    "stop": "Halte Bumi Panyileukan",
+    "coordinate": "107.7128557 -6.946652"
+  },
+  {
+    "stop": "Pasar Induk Gedebage",
+    "coordinate": "107.6973013 -6.936343"
+  },
+  {
+    "stop": "Metro B",
+    "coordinate": "107.6583047 -6.9403106"
+  },
+  {
+    "stop": "Padasuka",
+    "coordinate": "107.8983548 -6.841358"
+  },
+  {
+    "stop": "Terminal Cicaheum",
+    "coordinate": "107.6568052 -6.9022292"
+  },
+  {
+    "stop": "Simpang Cicaheum",
+    "coordinate": "107.6568052 -6.9022292"
+  },
+  {
+    "stop": "Seberang Terminal Cicaheum",
+    "coordinate": "107.6567951 -6.9020762"
+  },
+  {
+    "stop": "Cimuncang",
+    "coordinate": "107.6500247 -6.9016968"
+  },
+  {
+    "stop": "Gateway Cicadas",
+    "coordinate": "107.6459755 -6.9073207"
+  },
+  {
+    "stop": "Btm",
+    "coordinate": "107.6434706 -6.9112712"
+  },
+  {
+    "stop": "Halte Tmb Ibrahim Adjie",
+    "coordinate": "107.6421592 -6.9429006"
+  },
+  {
+    "stop": "Awi Bitung",
+    "coordinate": "107.6395652 -6.9105947"
+  },
+  {
+    "stop": "Gor Koni",
+    "coordinate": "107.6362581 -6.914741"
+  },
+  {
+    "stop": "Sekolah Agustinus",
+    "coordinate": "107.6331886 -6.9139814"
+  },
+  {
+    "stop": "Plaza Ibcc",
+    "coordinate": "107.6328349 -6.9143539"
+  },
+  {
+    "stop": "Lapangan Persib",
+    "coordinate": "107.6301434 -6.916119"
+  },
+  {
+    "stop": "Seberang Persib",
+    "coordinate": "107.6301434 -6.916119"
+  },
+  {
+    "stop": "Jaya Plaza",
+    "coordinate": "107.6268117 -6.9173661"
+  },
+  {
+    "stop": "Segitiga Mas",
+    "coordinate": "107.6258492 -6.9178881"
+  },
+  {
+    "stop": "Cikudapateuh",
+    "coordinate": "107.6245097 -6.9186418"
+  },
+  {
+    "stop": "Kantor Pos Kosambi",
+    "coordinate": "107.6235428 -6.9192619"
+  },
+  {
+    "stop": "Seberang Pasar Kosambi",
+    "coordinate": "107.6220644 -6.9199617"
+  },
+  {
+    "stop": "Pasar Kosambi",
+    "coordinate": "107.6220644 -6.9199617"
+  },
+  {
+    "stop": "Rsu Bungsu",
+    "coordinate": "107.6132861 -6.918174"
+  },
+  {
+    "stop": "Sudirman Sukamanah",
+    "coordinate": "107.5937395 -6.9196251"
+  },
+  {
+    "stop": "Pasar Ciroyom",
+    "coordinate": "107.5885486 -6.9141236"
+  },
+  {
+    "stop": "Simpang Jamika",
+    "coordinate": "107.5874464 -6.9188722"
+  },
+  {
+    "stop": "Jl A Yani",
+    "coordinate": "107.580869 -6.9206062"
+  },
+  {
+    "stop": "Surapati Core",
+    "coordinate": "107.6525389 -6.9018313"
+  },
+  {
+    "stop": "Surapati 4",
+    "coordinate": "107.6179718 -6.8992242"
+  },
+  {
+    "stop": "Dapen Telkom",
+    "coordinate": "107.5897879 -6.8698794"
+  },
+  {
+    "stop": "Terminal Antapani",
+    "coordinate": "107.6659285 -6.915304"
+  },
+  {
+    "stop": "Seberang Borma Antapani",
+    "coordinate": "107.6492727 -6.9130091"
+  },
+  {
+    "stop": "Kangkung Kaler",
+    "coordinate": "107.6260305 -6.9308256"
+  },
+  {
+    "stop": "Pasirluyu",
+    "coordinate": "107.6215656 -6.9491645"
+  },
+  {
+    "stop": "Museum Sri Baduga",
+    "coordinate": "107.6036999 -6.9372463"
+  },
+  {
+    "stop": "Sdn Babakan Tarogong",
+    "coordinate": "107.5940999 -6.9384699"
+  },
+  {
+    "stop": "Borma Antapani",
+    "coordinate": "107.6495005 -6.9129025"
+  },
+  {
+    "stop": "Kementrian Pu",
+    "coordinate": "107.626123 -6.9009951"
+  },
+  {
+    "stop": "Riau Junction 1",
+    "coordinate": "107.6116714 -6.9069866"
+  },
+  {
+    "stop": "Tamblong",
+    "coordinate": "107.6111029 -6.9170839"
+  },
+  {
+    "stop": "Halte Banceuy",
+    "coordinate": "107.6066134 -6.9188699"
+  },
+  {
+    "stop": "Pasteur 2",
+    "coordinate": "107.5819472 -6.8922747"
+  },
+  {
+    "stop": "Jalan Parahyangan 42",
+    "coordinate": "107.4712139 -6.8663029"
+  },
+  {
+    "stop": "Jalan Parahyangan",
+    "coordinate": "107.4712139 -6.8663029"
+  },
+  {
+    "stop": "Griya Buah Batu",
+    "coordinate": "107.6444764 -6.9221607"
+  },
+  {
+    "stop": "Lapang Lodaya",
+    "coordinate": "107.6249815 -6.9320775"
+  },
+  {
+    "stop": "Cikuda",
+    "coordinate": "107.6245097 -6.9186418"
+  },
+  {
+    "stop": "Pungkur",
+    "coordinate": "107.6104487 -6.929424"
+  },
+  {
+    "stop": "Jalan Gempol",
+    "coordinate": "107.5580796 -6.9299747"
+  },
+  {
+    "stop": "Spbu Panghegar",
+    "coordinate": "107.700111 -6.9282634"
+  },
+  {
+    "stop": "Terminal Damri Elang",
+    "coordinate": "107.5755676 -6.9139632"
+  },
+  {
+    "stop": "Gerbang Biru Gbla",
+    "coordinate": "107.7177552 -6.9347327"
+  },
+  {
+    "stop": "Stasiun Cimekar",
+    "coordinate": "107.7099396 -6.9482861"
+  },
+  {
+    "stop": "Uin Sunan Gunung Djati",
+    "coordinate": "107.7157532 -6.9323756"
+  },
+  {
+    "stop": "Cikadut",
+    "coordinate": "107.6653297 -6.9040593"
+  },
+  {
+    "stop": "Depan Terminal Cicaheum",
+    "coordinate": "107.6568052 -6.9022292"
+  },
+  {
+    "stop": "Stmik",
+    "coordinate": "107.6382039 -6.9145037"
+  },
+  {
+    "stop": "Museum Kaa",
+    "coordinate": "107.6215656 -6.9491645"
+  },
+  {
+    "stop": "Simpang Pungkur-Dewi Sartika",
+    "coordinate": "107.6059335 -6.9266974"
+  }
+]

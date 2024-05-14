@@ -1,0 +1,742 @@
+[
+  {
+    "stop": "Jalan Bandung - Palimanan 52",
+    "coordinate": "108.432012 -6.707481"
+  },
+  {
+    "stop": "Jalan Bandung - Palimanan 13",
+    "coordinate": "108.431986 -6.707472"
+  },
+  {
+    "stop": "Cinanjung",
+    "coordinate": "107.802116 -6.918296"
+  },
+  {
+    "stop": "Pangkalan Damri Tanjungsari",
+    "coordinate": "107.797819 -6.905712"
+  },
+  {
+    "stop": "Pasar Tanjungsari",
+    "coordinate": "107.796300 -6.908048"
+  },
+  {
+    "stop": "Casa De Aminda",
+    "coordinate": "107.784458 -6.926849"
+  },
+  {
+    "stop": "Griya Jatinangor II",
+    "coordinate": "107.768958 -6.934907"
+  },
+  {
+    "stop": "Universitas Mandiri",
+    "coordinate": "107.762303 -6.549625"
+  },
+  {
+    "stop": "Jalan Raya Cileunyi 436",
+    "coordinate": "107.753234 -6.939830"
+  },
+  {
+    "stop": "Jalan Raya Cileunyi 100a",
+    "coordinate": "107.753094 -6.938882"
+  },
+  {
+    "stop": "Jalan Raya Cinunuk 214",
+    "coordinate": "107.738616 -6.939446"
+  },
+  {
+    "stop": "Borma Cinunuk",
+    "coordinate": "107.730973 -6.937453"
+  },
+  {
+    "stop": "Dinas Perhubungan Jabar",
+    "coordinate": "107.730526 -6.937151"
+  },
+  {
+    "stop": "Jalan A.H. Nasution 236",
+    "coordinate": "107.725927 -6.933162"
+  },
+  {
+    "stop": "Sdn 050 Cibiru",
+    "coordinate": "107.721420 -6.934168"
+  },
+  {
+    "stop": "Pangkalan Damri Cibiru",
+    "coordinate": "107.719970 -6.923029"
+  },
+  {
+    "stop": "Jalan Desa Cipadung",
+    "coordinate": "107.719492 -6.923945"
+  },
+  {
+    "stop": "Bunderan Cibiru",
+    "coordinate": "107.717463 -6.935136"
+  },
+  {
+    "stop": "Stasiun Tegalluar",
+    "coordinate": "107.715440 -6.964280"
+  },
+  {
+    "stop": "Jalan A.H. Nasution 37a",
+    "coordinate": "107.712207 -6.929655"
+  },
+  {
+    "stop": "Jalan A.H. Nasution 38",
+    "coordinate": "107.712104 -6.929327"
+  },
+  {
+    "stop": "Sdn Ciporeat",
+    "coordinate": "107.711809 -6.902459"
+  },
+  {
+    "stop": "Halte Stikes Bandung",
+    "coordinate": "107.709980 -6.935600"
+  },
+  {
+    "stop": "Halte Cimincrang",
+    "coordinate": "107.702928 -6.946545"
+  },
+  {
+    "stop": "Terminal Ujung Berung",
+    "coordinate": "107.702730 -6.914150"
+  },
+  {
+    "stop": "Masjid Besar Ujung Berung",
+    "coordinate": "107.700879 -6.913670"
+  },
+  {
+    "stop": "Kartikasari Ujung Berung",
+    "coordinate": "107.698430 -6.913957"
+  },
+  {
+    "stop": "Kimia Farma Ujung Berung",
+    "coordinate": "107.698092 -6.914297"
+  },
+  {
+    "stop": "Sdn Andir Kidul",
+    "coordinate": "107.695516 -6.913893"
+  },
+  {
+    "stop": "Jalan Raya Ujungberung 55",
+    "coordinate": "107.694536 -6.912789"
+  },
+  {
+    "stop": "Gani Factory Outlet",
+    "coordinate": "107.691841 -6.912629"
+  },
+  {
+    "stop": "Shop And Drive Ujung Berung",
+    "coordinate": "107.691155 -6.906091"
+  },
+  {
+    "stop": "Rancabolang",
+    "coordinate": "107.689607 -6.958642"
+  },
+  {
+    "stop": "Sman 24 Bandung",
+    "coordinate": "107.688592 -6.908395"
+  },
+  {
+    "stop": "Halte Pusjatan",
+    "coordinate": "107.686829 -6.907628"
+  },
+  {
+    "stop": "Jalan A.H. Nasution 84",
+    "coordinate": "107.684994 -6.906947"
+  },
+  {
+    "stop": "Pool Damri Gedebage",
+    "coordinate": "107.681578 -6.943618"
+  },
+  {
+    "stop": "Bulog Gedebage",
+    "coordinate": "107.681578 -6.943618"
+  },
+  {
+    "stop": "Sdn 068 Sindanglaya",
+    "coordinate": "107.680486 -6.904996"
+  },
+  {
+    "stop": "Kpp Cicadas",
+    "coordinate": "107.679044 -6.937526"
+  },
+  {
+    "stop": "Suzuki Indo Sarana Bandung",
+    "coordinate": "107.676864 -6.938007"
+  },
+  {
+    "stop": "Bahana Bandung",
+    "coordinate": "107.674588 -6.933339"
+  },
+  {
+    "stop": "Jalan A.H. Nasution, 68",
+    "coordinate": "107.669126 -6.904298"
+  },
+  {
+    "stop": "Lapas Sukamiskin",
+    "coordinate": "107.669126 -6.904298"
+  },
+  {
+    "stop": "Bpn Jabar",
+    "coordinate": "107.668887 -7.090911"
+  },
+  {
+    "stop": "Bpk Jabar",
+    "coordinate": "107.668887 -7.090911"
+  },
+  {
+    "stop": "Parakan Saat",
+    "coordinate": "107.668198 -6.932636"
+  },
+  {
+    "stop": "Sanggar Hurip",
+    "coordinate": "107.667014 -6.937091"
+  },
+  {
+    "stop": "Rs Hermina Rancamanik",
+    "coordinate": "107.666794 -6.904194"
+  },
+  {
+    "stop": "Jalan A.H. Nasution 918",
+    "coordinate": "107.660918 -6.903220"
+  },
+  {
+    "stop": "Smkn 7 Bandung",
+    "coordinate": "107.659982 -6.940639"
+  },
+  {
+    "stop": "Smkn 9 Bandung",
+    "coordinate": "107.656982 -6.940428"
+  },
+  {
+    "stop": "Pengadilan Agama Bandung",
+    "coordinate": "107.656504 -6.912933"
+  },
+  {
+    "stop": "Jalan Jendral Ahmad Yani 909 - 915",
+    "coordinate": "107.655059 -6.901924"
+  },
+  {
+    "stop": "Kantor Pos Sekejati",
+    "coordinate": "107.650705 -6.942927"
+  },
+  {
+    "stop": "Smk Medika Com",
+    "coordinate": "107.646730 -6.943710"
+  },
+  {
+    "stop": "Rsia Grha Bunda",
+    "coordinate": "107.645602 -6.913235"
+  },
+  {
+    "stop": "Uninus",
+    "coordinate": "107.644272 -6.945810"
+  },
+  {
+    "stop": "Mustofa Sukapada",
+    "coordinate": "107.643960 -6.899930"
+  },
+  {
+    "stop": "Seberang Carrefour Kiaracondong",
+    "coordinate": "107.641104 -6.946465"
+  },
+  {
+    "stop": "Pabrik Badjoe",
+    "coordinate": "107.638490 -6.946320"
+  },
+  {
+    "stop": "Balai Besar Tekstil",
+    "coordinate": "107.637960 -6.911726"
+  },
+  {
+    "stop": "Jalan Soekarno Hatta 496",
+    "coordinate": "107.636717 -6.947243"
+  },
+  {
+    "stop": "Phh Mustofa 3",
+    "coordinate": "107.634788 -6.897727"
+  },
+  {
+    "stop": "Phh. Mustofa 1",
+    "coordinate": "107.634681 -6.897686"
+  },
+  {
+    "stop": "Phh. Mustofa 2",
+    "coordinate": "107.634411 -6.898023"
+  },
+  {
+    "stop": "Guntursari Wetan",
+    "coordinate": "107.633631 -6.945801"
+  },
+  {
+    "stop": "Jalan Soekarno Hatta 517",
+    "coordinate": "107.631058 -6.948247"
+  },
+  {
+    "stop": "Jalan Laswi 75",
+    "coordinate": "107.629474 -6.922892"
+  },
+  {
+    "stop": "Jalan Soekarno Hatta 476",
+    "coordinate": "107.629017 -6.949346"
+  },
+  {
+    "stop": "Surapati 3",
+    "coordinate": "107.627582 -6.899245"
+  },
+  {
+    "stop": "Hotel Sepuluh",
+    "coordinate": "107.626260 -6.930880"
+  },
+  {
+    "stop": "Stie Inaba",
+    "coordinate": "107.622853 -6.949923"
+  },
+  {
+    "stop": "Jalan Soekarno Hatta 518",
+    "coordinate": "107.622187 -6.949527"
+  },
+  {
+    "stop": "Jalan Bkr Lingkar Selatan 10",
+    "coordinate": "107.621798 -6.937143"
+  },
+  {
+    "stop": "Rskb Halmahera Siaga",
+    "coordinate": "107.615597 -6.906734"
+  },
+  {
+    "stop": "Moch. Ramdan",
+    "coordinate": "107.613012 -6.934526"
+  },
+  {
+    "stop": "Cikapayang 1",
+    "coordinate": "107.611824 -6.899003"
+  },
+  {
+    "stop": "Cikapayang 2",
+    "coordinate": "107.611824 -6.899003"
+  },
+  {
+    "stop": "Museum Mandala Wangsit Siliwangi",
+    "coordinate": "107.611070 -6.917325"
+  },
+  {
+    "stop": "Telkom Lembong",
+    "coordinate": "107.611055 -6.916694"
+  },
+  {
+    "stop": "Halte Bkr 4 Taman Lansia Regol",
+    "coordinate": "107.609808 -6.937496"
+  },
+  {
+    "stop": "Masjid Agung Al Ukkhuwah",
+    "coordinate": "107.608772 -6.910825"
+  },
+  {
+    "stop": "Jalan Wastukancana, 45",
+    "coordinate": "107.607805 -6.908848"
+  },
+  {
+    "stop": "Karasak Utara",
+    "coordinate": "107.607475 -6.948262"
+  },
+  {
+    "stop": "Hubdam III Siliwangi",
+    "coordinate": "107.606614 -6.934524"
+  },
+  {
+    "stop": "Jalan Kautamaan Istri",
+    "coordinate": "107.605431 -6.925582"
+  },
+  {
+    "stop": "Simpang Pajajaran Cicendo",
+    "coordinate": "107.605210 -6.907220"
+  },
+  {
+    "stop": "Stdi Bandung",
+    "coordinate": "107.604651 -6.903944"
+  },
+  {
+    "stop": "Halte Bkr 2 Taman Tegalega",
+    "coordinate": "107.604618 -6.937301"
+  },
+  {
+    "stop": "Grandia Hotel",
+    "coordinate": "107.604614 -6.901021"
+  },
+  {
+    "stop": "Rs Mata Cicendo",
+    "coordinate": "107.604410 -6.910350"
+  },
+  {
+    "stop": "Simpang Sudirman Otista",
+    "coordinate": "107.603820 -6.920902"
+  },
+  {
+    "stop": "Inhoftank",
+    "coordinate": "107.603039 -6.942919"
+  },
+  {
+    "stop": "Mekarwangi",
+    "coordinate": "107.602296 -6.952966"
+  },
+  {
+    "stop": "Lapas Banceuy",
+    "coordinate": "107.600908 -6.949225"
+  },
+  {
+    "stop": "Seberang Ampera Kebon Kawung",
+    "coordinate": "107.600735 -6.912557"
+  },
+  {
+    "stop": "Taman Westhoff",
+    "coordinate": "107.598397 -6.900805"
+  },
+  {
+    "stop": "Jalan Peta 85",
+    "coordinate": "107.597603 -6.938114"
+  },
+  {
+    "stop": "Djunjunan Paskal",
+    "coordinate": "107.596770 -6.900430"
+  },
+  {
+    "stop": "Jalan Soekarno Hatta, 388",
+    "coordinate": "107.594479 -6.947334"
+  },
+  {
+    "stop": "Tpu Pandu",
+    "coordinate": "107.593120 -6.901330"
+  },
+  {
+    "stop": "Pintu Keluar Terminal Leuwipanjang",
+    "coordinate": "107.591188 -6.943595"
+  },
+  {
+    "stop": "Sudirman Pasar Andir",
+    "coordinate": "107.590384 -6.917825"
+  },
+  {
+    "stop": "Sdn Raya Barat",
+    "coordinate": "107.590384 -6.917825"
+  },
+  {
+    "stop": "Djunjunan (Giant)",
+    "coordinate": "107.588480 -6.894850"
+  },
+  {
+    "stop": "Griya Pasteur",
+    "coordinate": "107.588350 -6.895226"
+  },
+  {
+    "stop": "Perempatan Kopo - Soekarno Hatta",
+    "coordinate": "107.587501 -6.940652"
+  },
+  {
+    "stop": "Surya Sumantri 1",
+    "coordinate": "107.581265 -6.891564"
+  },
+  {
+    "stop": "Surya Sumantri 2",
+    "coordinate": "107.581131 -6.881206"
+  },
+  {
+    "stop": "Jalan Soekarno Hatta 198",
+    "coordinate": "107.580866 -6.939500"
+  },
+  {
+    "stop": "Sdn Sukaraja",
+    "coordinate": "107.578580 -6.891520"
+  },
+  {
+    "stop": "Cibuntu Tengah",
+    "coordinate": "107.577020 -6.924976"
+  },
+  {
+    "stop": "Bundaran Cibereum",
+    "coordinate": "107.574378 -6.917210"
+  },
+  {
+    "stop": "Jalan Soekarno Hatta 8",
+    "coordinate": "107.574243 -6.918190"
+  },
+  {
+    "stop": "Cibuntu Selatan",
+    "coordinate": "107.573733 -6.931142"
+  },
+  {
+    "stop": "Jalan Jend. Sudirman, 773",
+    "coordinate": "107.571541 -6.914828"
+  },
+  {
+    "stop": "Katapang",
+    "coordinate": "107.555887 -6.992112"
+  },
+  {
+    "stop": "Katapang Kaler",
+    "coordinate": "107.555858 -6.992146"
+  },
+  {
+    "stop": "Jalan Raya Simpang, 456",
+    "coordinate": "107.495804 -6.850388"
+  },
+  {
+    "stop": "Jalan Kbp East Entrance",
+    "coordinate": "107.494557 -6.852630"
+  },
+  {
+    "stop": "Veteran",
+    "coordinate": "107.6149871 -6.9203183"
+  },
+  {
+    "stop": "Hardrock Fm",
+    "coordinate": "107.5372209 -6.9297006"
+  },
+  {
+    "stop": "Sulaksana",
+    "coordinate": "107.6501219 -6.9050592"
+  },
+  {
+    "stop": "Abdul Hamid",
+    "coordinate": "107.6601315 -6.9022558"
+  },
+  {
+    "stop": "Puslitbang Jalan Dan Jembatan",
+    "coordinate": "107.6868381 -6.9076005"
+  },
+  {
+    "stop": "Borma Nasution",
+    "coordinate": "107.6728195 -6.9155444"
+  },
+  {
+    "stop": "Halte Nasution",
+    "coordinate": "107.7108475 -6.9262958"
+  },
+  {
+    "stop": "Jembatan Pelangi (Kiara Artha)",
+    "coordinate": "107.6069211 -6.9139600"
+  },
+  {
+    "stop": "Muj",
+    "coordinate": "107.6398599 -6.9142265"
+  },
+  {
+    "stop": "Simpang Lima (A. Yani)",
+    "coordinate": "107.6150751 -6.9223327"
+  },
+  {
+    "stop": "Panin Bank",
+    "coordinate": "107.6162306 -6.9222827"
+  },
+  {
+    "stop": "Kasim",
+    "coordinate": "107.6141931 -6.9220278"
+  },
+  {
+    "stop": "Badan Keuangan Negara",
+    "coordinate": "107.6110563 -6.9216540"
+  },
+  {
+    "stop": "Halte Otto Iskandardinata",
+    "coordinate": "107.6031926 -6.9353232"
+  },
+  {
+    "stop": "Peta Muara",
+    "coordinate": "107.5904973 -6.9335255"
+  },
+  {
+    "stop": "Seberang Taman Sumringah",
+    "coordinate": "107.6936525 -6.9546172"
+  },
+  {
+    "stop": "Dinas Koperasi Dan Usaha Kecil",
+    "coordinate": "107.6607424 -6.9394510"
+  },
+  {
+    "stop": "Halte Smkn 6 (Bnn)",
+    "coordinate": "107.6768251 -6.9381147"
+  },
+  {
+    "stop": "Gmw Motor",
+    "coordinate": "107.6776414 -6.9382415"
+  },
+  {
+    "stop": "Halte Tmb Kantor Pos",
+    "coordinate": "107.5972294 -6.9228306"
+  },
+  {
+    "stop": "Depo Bangunan",
+    "coordinate": "107.6711427 -6.9387112"
+  },
+  {
+    "stop": "Lotte Mart",
+    "coordinate": "107.6693661 -6.9388296"
+  },
+  {
+    "stop": "Showroom Hyundai",
+    "coordinate": "107.6463993 -6.9438349"
+  },
+  {
+    "stop": "Samsat",
+    "coordinate": "107.6396341 -6.9448799"
+  },
+  {
+    "stop": "Unibi",
+    "coordinate": "107.6480201 -6.9426097"
+  },
+  {
+    "stop": "Jasa Raharja",
+    "coordinate": "107.6581907 -6.9401098"
+  },
+  {
+    "stop": "Halte Pt Suparma",
+    "coordinate": "107.6601290 -6.9395873"
+  },
+  {
+    "stop": "Halte Ariesta Yamaha",
+    "coordinate": "107.6635275 -6.9390038"
+  },
+  {
+    "stop": "Halte Guru Minda",
+    "coordinate": "107.6776076 -6.9380031"
+  },
+  {
+    "stop": "Sumbersari",
+    "coordinate": "107.4964586 -6.9242070"
+  },
+  {
+    "stop": "Naga Mas",
+    "coordinate": "107.6347185 -6.9475841"
+  },
+  {
+    "stop": "Sindangreret",
+    "coordinate": "107.6199633 -6.8992503"
+  },
+  {
+    "stop": "Ciguruwik",
+    "coordinate": "107.7281644 -6.9343449"
+  },
+  {
+    "stop": "Cikalang",
+    "coordinate": "107.7455058 -6.9392224"
+  },
+  {
+    "stop": "Vbi",
+    "coordinate": "107.7499962 -6.9400253"
+  },
+  {
+    "stop": "Halte Shakti",
+    "coordinate": "107.6970390 -6.9368072"
+  },
+  {
+    "stop": "Ratnasasih Shelter",
+    "coordinate": "107.4687222 -6.8676799"
+  },
+  {
+    "stop": "Jingganegara Shelter",
+    "coordinate": "107.4693348 -6.8724723"
+  },
+  {
+    "stop": "Subanglarang Shelter",
+    "coordinate": "107.4651882 -6.8676967"
+  },
+  {
+    "stop": "Cbcs",
+    "coordinate": "107.4687939 -6.8686229"
+  },
+  {
+    "stop": "Pasteur 1",
+    "coordinate": "107.5847523 -6.8924854"
+  },
+  {
+    "stop": "Seberang Tpu Pandu",
+    "coordinate": "107.5937497 -6.8984447"
+  },
+  {
+    "stop": "Kasmin",
+    "coordinate": "107.5999144 -6.9203193"
+  },
+  {
+    "stop": "Asep Berlian",
+    "coordinate": "107.6427515 -6.9090314"
+  },
+  {
+    "stop": "Samping Spbu Laswi",
+    "coordinate": "107.6279858 -6.9236338"
+  },
+  {
+    "stop": "Sukasenang Raya",
+    "coordinate": "107.6371382 -6.8984891"
+  },
+  {
+    "stop": "Bkkbn",
+    "coordinate": "106.5876272 -6.5170288"
+  },
+  {
+    "stop": "Surapati 1",
+    "coordinate": "107.6293063 -6.8998333"
+  },
+  {
+    "stop": "Surapati 2",
+    "coordinate": "107.6203409 -6.8992534"
+  },
+  {
+    "stop": "Lemahnendeut",
+    "coordinate": "107.6407190 -6.8993375"
+  },
+  {
+    "stop": "Sarimanis",
+    "coordinate": "107.5767784 -6.8795733"
+  },
+  {
+    "stop": "Rajawali 2",
+    "coordinate": "107.5886711 -6.9162896"
+  },
+  {
+    "stop": "Masjid Saifuddaulah",
+    "coordinate": "107.6050429 -6.9147973"
+  },
+  {
+    "stop": "Arya Graha",
+    "coordinate": "107.6729709 -6.9385828"
+  },
+  {
+    "stop": "Halte Carrefour",
+    "coordinate": "107.6411219 -6.9457769"
+  },
+  {
+    "stop": "Garuda",
+    "coordinate": "107.5780072 -6.9118754"
+  },
+  {
+    "stop": "Taman Sakura Indah",
+    "coordinate": "107.5787970 -6.9361722"
+  },
+  {
+    "stop": "Altamira",
+    "coordinate": "107.5974982 -6.9475507"
+  },
+  {
+    "stop": "Magna Raya",
+    "coordinate": "107.6887946 -6.9540265"
+  },
+  {
+    "stop": "Taman Sumringah",
+    "coordinate": "107.6949164 -6.9559819"
+  },
+  {
+    "stop": "Sukaraja II",
+    "coordinate": "107.5785023 -6.8914409"
+  },
+  {
+    "stop": "Cipedes Selatan",
+    "coordinate": "107.5904046 -6.8961874"
+  },
+  {
+    "stop": "Cipedes Hilir",
+    "coordinate": "107.5905255 -6.8964877"
+  },
+  {
+    "stop": "Underpass Cibogo",
+    "coordinate": "107.5789443 -6.8911346"
+  }
+]
