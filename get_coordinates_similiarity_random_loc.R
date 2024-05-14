@@ -3,7 +3,7 @@ library(ggmap)
 library(dplyr)
 library(openxlsx)
 
-register_google(key = "AIzaSyDxJxERkTIaZD86rrC0ZrRSfQg16JJ12CE")
+register_google(key = "API_KEY")
 
 # Set your locations
 locations <- c(
