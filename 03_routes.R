@@ -4,19 +4,18 @@ library(tidyr)
 rm(list = ls())
 
 # read data
-tj <- readRDS("data/tj_detail.rds")
+bandungbrt <- readRDS("data/bandung_detail.rds")
 
 # route_id, agency_id, route_short_name, route_long_name, route_color,
 # route_type, route_text_color, route_sort_order
 
-routes <- tj %>%
+routes <- bandungbrt %>%
   select(route_id = scheduleId,
          agency_id = transportId,
          route_short_name = name,
          route_long_name = longName,
          route_color = color) %>%
-  mutate(agency_id = gsub("idjkb_", "", .$agency_id),
-         route_id = gsub("idjkb_", "", .$route_id),
+  mutate(agency_id = gsub("bdg_", "", .$agency_id),
          route_type = 3)
 
 # route_type

@@ -2,7 +2,7 @@
   {
     "transportName": "Trans Metro Pasundan",
     "scheduleId": "tmp_1d",
-    "transportId": "bdg_tmp",
+    "transportId": "bdg_damri",
     "validity": "NA",
     "name": "TMP 1D",
     "longName": "Leuwipanjang - Soreang",
@@ -72,7 +72,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmp_1d_1"
+          "shape": "foki@kiuoScx@KaOhQc[jS{KzLbLlb@drObmHfd@`InMaG~f@pJpIqlA_SyF"
         },
         {
           "id": "tmp_1d_2",
@@ -105,7 +105,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmp_1d_2"
+          "shape": "liyi@_`ioSyJy@wjOs{GleA}i@tYu`AwBt@"
         }
       ],
       "stops": [
@@ -286,7 +286,7 @@
   {
     "transportName": "Trans Metro Pasundan",
     "scheduleId": "tmp_2d",
-    "transportId": "bdg_tmp",
+    "transportId": "bdg_bluebird",
     "validity": "NA",
     "name": "TMP 2D",
     "longName": "Alun Alun Bandung - Kota Baru Parahyangan",
@@ -416,7 +416,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmp_2d_1"
+          "shape": "`yfi@s_xoSgCv^kBl[eCbc@qCze@kEps@}Kz^eXbNwh@bWsHpDocAzi@wt@j_@qXrN{Mn^hPfUyXjEy`@fYkIp[iAlc@cEnk@uWju@}Arl@_b@dZoCxs@b[ht@d`@vo@cB|j@"
         },
         {
           "id": "tmp_2d_2",
@@ -541,7 +541,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmp_2d_2"
+          "shape": "``|h@mr|nSj@sZIsLkJa^oNqLg_@kx@pBgw@ja@sXfBil@xXqv@bEom@|@_c@zH{Y`[kp@v\\ud@rf@qWve@mVtdAii@nHyDxd@oZrKw_@|CoP|Ek\\lIav@g@s]SwQ}Lwr@tNiKb]~O"
         }
       ],
       "stops": [
@@ -1092,7 +1092,7 @@
   {
     "transportName": "Trans Metro Pasundan",
     "scheduleId": "tmp_3d",
-    "transportId": "bdg_tmp",
+    "transportId": "bdg_bluebird",
     "validity": "NA",
     "name": "TMP 3D",
     "longName": "Baleendah - BEC",
@@ -1113,7 +1113,7 @@
           "direction": 1,
           "stops": [
             {
-              "stopId": "bandung_apotek_k24_baleendah",
+              "stopId": "bandung_baleendah",
               "destination": "Bec (Bandung Electronic Center)"
             },
             {
@@ -1230,7 +1230,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmp_3d_1"
+          "shape": "tysi@otyoSvmBqqAwJgNeVgBqa@jEc_AgMwq@gLot@aMa~@kL{T~BeQlNwdBrcAzyAuOJxVwAf_@}Abk@cZzUij@r\\wi@wQ}PGaVpR_OcUcNhB}ThLgPtHkFv^{[kLw@gZdI{^"
         },
         {
           "id": "tmp_3d_2",
@@ -1350,12 +1350,12 @@
               "destination": "Baleendah"
             },
             {
-              "stopId": "bandung_apotek_k24_baleendah",
+              "stopId": "bandung_baleendah",
               "destination": "Baleendah"
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmp_3d_2"
+          "shape": "|fdi@anxoSfKq@tOdJdt@xC|IrRh^`Arc@j@x^cQte@yKhRmVlCwj@t@ka@WkTyIih@bSyI|OsMx]gDtg@pG|MtAbYxFb[|l@yBy\\h`ArEva@lFzv@m@x_@vFvAlj@vDgCytBdv@"
         }
       ],
       "stops": [
@@ -1640,7 +1640,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_apotek_k24_baleendah",
+          "id": "bandung_baleendah",
           "name": "Baleendah",
           "areaName": "",
           "directionName": "",
@@ -1916,7 +1916,7 @@
   {
     "transportName": "Trans Metro Pasundan",
     "scheduleId": "tmp_4d",
-    "transportId": "bdg_tmp",
+    "transportId": "bdg_damri",
     "validity": "NA",
     "name": "TMP 4D",
     "longName": "Leuwipanjang - Dago",
@@ -1994,7 +1994,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmp_4d_1"
+          "shape": "prki@whuoS}y@iCdD_|@kTxe@yZuRirAdC}Qkw@{e@_CxYn}@qs@ey@{dAuXrQ^mn@_Mz`@}O"
         },
         {
           "id": "tmp_4d_2",
@@ -2063,7 +2063,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmp_4d_2"
+          "shape": "|cai@mbzoS`OnZnOfBf_@zWps@dy@eGqeAvQvQzIeF~Jx[fb@v_@py@m\\r^gNpEjD_@|jAxs@T"
         }
       ],
       "stops":[
@@ -2344,7 +2344,7 @@
   {
     "transportName": "Trans Metro Pasundan",
     "scheduleId": "tmp_5d",
-    "transportId": "bdg_tmp",
+    "transportId": "bdg_damri",
     "validity": "NA",
     "name": "TMP 5D",
     "longName": "Dipatiukur - Jatinangor via Moh Toha",
@@ -2426,7 +2426,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmp_5d_1"
+          "shape": "|cai@mbzoSbb@bI`SeVWsYhk@id@lNfUfNeMh`@uN~bBzd@`\\nuBhs@iPfl@gNiwAcgZi]cwAyWqaA"
         },
         {
           "id": "tmp_5d_2",
@@ -2474,7 +2474,7 @@
               "destination": "Dipatiukur"
             },
             {
-              "stopId": "bandung_lapangan_supratman_a",
+              "stopId": "bandung_lapangan_supratman_b",
               "destination": "Dipatiukur"
             },
             {
@@ -2495,7 +2495,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmp_5d_2"
+          "shape": "h_ii@cbypShHz_@|I~d@l\\zvAdxAvgZwf@~OgcAlK{R_rB{aB{d@ma@}Oub@lYwd@na@VdXcTbXgb@uI"
         }
       ],
       "stops": [
@@ -2796,7 +2796,7 @@
   {
     "transportName": "Trans Metro Bandung",
     "scheduleId": "tmb_f1",
-    "transportId": "bdg_tmb",
+    "transportId": "bdg_badan_layanan_umum_daerah",
     "validity": "NA",
     "name": "TMB F1",
     "longName": "Gunung Batu - Stasiun Hall (Feeder)",
@@ -2910,7 +2910,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmb_f1_1"
+          "shape": "zp`i@ubpoSyJ_Cze@g`@kLuc@LO`Eqe@vMiVjG_KbM{SgMeb@iW|kBtu@ulCfQG|DiOnMxK`AvCnPF`MfHGvLLwLpUjYIsDEoP"
         },
         {
           "id": "tmb_f1_2",
@@ -3003,7 +3003,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmb_f1_2"
+          "shape": "~xei@abwoS_D}KwGiT{DyEuLh@kK`EqMpTaM|GaLvSqGpFkAbIrDxUg]fO{FpLmExQwOfi@kAgA|@vAjLtc@{e@f`@xJ~B"
         }
       ],
       "stops": [
@@ -3158,7 +3158,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_pasteur_1",
+          "id": "bandung_pasteur_2",
           "name": "Pasteur 2",
           "areaName": "",
           "directionName": "",
@@ -3188,7 +3188,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_gunung_batu_mentor",
+          "id": "bandung_gunung_batu",
           "name": "Gunung Batu",
           "areaName": "",
           "directionName": "",
@@ -3394,7 +3394,7 @@
   {
     "transportName": "Trans Metro Bandung",
     "scheduleId": "tmb_f2",
-    "transportId": "bdg_tmb",
+    "transportId": "bdg_badan_layanan_umum_daerah",
     "validity": "NA",
     "name": "TMB F2",
     "longName": "Summarecon - Cibeureum (Feeder)",
@@ -3539,7 +3539,7 @@
               "destination": "Cibeureum"
             },
             {
-              "stopId": "bandung_seberang_ampera_soekarno_hatta",
+              "stopId": "bandung_ampera_soekarno_hatta",
               "destination": "Cibeureum"
             },
             {
@@ -3604,7 +3604,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmb_f2_1"
+          "shape": "homi@s~ipS}jC^jaAdgItZjsAe~@aqGXcDi_BruNfbB_mMTbJMJvHvcApqBsbE}tMbtMjdJ_{G~R|sAfFl\\Wi@eKav@~Pdg@EtRlVjuBgMyyAslAjeAzyAuOJxVbBbHwC`Gc@`NmkGdoEnhGacDY|S_@mvCr\\v~DkVtG}xEqfE_a@kVxqAkp@haChvJy_AhcAkHo@aSaA}{@c@_TzOoSfKaCsBrKw_@pE_@"
         },
         {
           "id": "tmb_f2_2",
@@ -3784,7 +3784,7 @@
               "destination": "Summarecon"
             },
             {
-              "stopId": "bandung_seberang_taman_sumringah",
+              "stopId": "bandung_taman_sumringah",
               "destination": "Summarecon"
             },
             {
@@ -3793,7 +3793,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmb_f2_2"
+          "shape": "hkei@gzqoSaLgNh`@tU`bA|@oQoQiZ_W`|@|[fc@_Ovi@eb@s]}_EzNtlDhn@e{GeCv|E_\\sa@d`@czDFj~Ci|AmbLj|AdeKlCwj@b@aNPiRWkTqDsQcC{U~BzI_Jyq@}HdHuKiKjDa_@{EaGsL_w@_AqFgBaKsBgTK?qJyT{ZkFp`@eu@?sC_B_H`e@yN``Acl@tBk]|Dia@"
         }
       ],
       "stops": [
@@ -3802,8 +3802,8 @@
           "name": "Babakan Ciparay",
           "areaName": "",
           "directionName": "",
-          "lat": -7.0357112,
-          "lng": 107.7132426,
+          "lat": -6.93812,
+          "lng": 107.6152925,
           "icon": "",
           "mapIcon": ""
         },
@@ -3858,7 +3858,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_halte_soekarno_hatta_3",
+          "id": "bandung_halte_soekarno_hatta_4",
           "name": "Halte Soekarno Hatta 4",
           "areaName": "",
           "directionName": "",
@@ -3918,7 +3918,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_seberang_ampera_soekarno_hatta",
+          "id": "bandung_ampera_soekarno_hatta",
           "name": "Ampera Soekarno Hatta",
           "areaName": "",
           "directionName": "",
@@ -4072,8 +4072,8 @@
           "name": "Simpang Cibaduyut",
           "areaName": "",
           "directionName": "",
-          "lat": -6.9727951,
-          "lng": 107.5908461,
+          "lat": -6.9089104,
+          "lng": 107.6365714,
           "icon": "",
           "mapIcon": ""
         },
@@ -4192,8 +4192,8 @@
           "name": "Stt Mandala",
           "areaName": "",
           "directionName": "",
-          "lat": -6.8328067,
-          "lng": 107.351643,
+          "lat": -6.942846,
+          "lng": 107.6416018,
           "icon": "",
           "mapIcon": ""
         },
@@ -4282,8 +4282,8 @@
           "name": "Bpn Jabar",
           "areaName": "",
           "directionName": "",
-          "lat": -7.090911,
-          "lng": 107.668887,
+          "lat": -6.944993,
+          "lng": 107.6416841,
           "icon": "",
           "mapIcon": ""
         },
@@ -4292,8 +4292,8 @@
           "name": "Universitas Mandiri",
           "areaName": "",
           "directionName": "",
-          "lat": -6.549625,
-          "lng": 107.762303,
+          "lat": -6.9448799,
+          "lng": 107.6418971,
           "icon": "",
           "mapIcon": ""
         },
@@ -4328,7 +4328,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_jalan_soekarno_hatta_517",
+          "id": "bandung_jalan_soekarno_hatta_518",
           "name": "Jalan Soekarno Hatta 518",
           "areaName": "",
           "directionName": "",
@@ -4382,8 +4382,8 @@
           "name": "Sumbersari",
           "areaName": "",
           "directionName": "",
-          "lat": -6.9242070,
-          "lng": 107.4964586,
+          "lat": -6.9326401,
+          "lng": 107.5734934,
           "icon": "",
           "mapIcon": ""
         },
@@ -4688,7 +4688,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_seberang_taman_sumringah",
+          "id": "bandung_taman_sumringah",
           "name": "Taman Sumringah",
           "areaName": "",
           "directionName": "",
@@ -4704,7 +4704,7 @@
   {
     "transportName": "Trans Metro Bandung",
     "scheduleId": "tmb_k1",
-    "transportId": "bdg_tmb",
+    "transportId": "bdg_badan_layanan_umum_daerah",
     "validity": "NA",
     "name": "TMB K1",
     "longName": "Cibiru - Cibeureum",
@@ -4846,7 +4846,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmb_k1_1"
+          "shape": "roii@cqmpS~fAx[U`}@{{@xc@tj@~zHob@u|Do~AnpNlaBmxM`@|UvHvcAkbJnpGjdJ_{G~R|sAfFl\\`DeOEtRmcA|`BfzAbFbBbHyGfbAY|Sr[hg@o_EsfGhaChvJy_AhcAm\\qB}pAvNoSfKaCsBdRw`@"
         },
         {
           "id": "tmb_k1_2",
@@ -4951,7 +4951,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmb_k1_2"
+          "shape": "hkei@gzqoSs@oO|Ek\\iCgb@nLYf@_Rg@s]IcLIsD[eAiCg[oBoBgDyPnBiFdK_Dl@mFfH}LpQc[kFwYgGgN_GmMyFySiL_RfaBvvQkoBstRaF_IwH}RuIcSeb@iXvJ~GiImg@\\{I\\A"
         }
       ],
       "stops": [
@@ -4960,8 +4960,8 @@
           "name": "Babakan Ciparay",
           "areaName": "",
           "directionName": "",
-          "lat": -7.0357112 ,
-          "lng": 107.7132426,
+          "lat": -6.93812,
+          "lng": 107.6152925,
           "icon": "",
           "mapIcon": ""
         },
@@ -5026,7 +5026,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_halte_soekarno_hatta_3",
+          "id": "bandung_halte_soekarno_hatta_4",
           "name": "Halte Soekarno Hatta 4",
           "areaName": "",
           "directionName": "",
@@ -5270,8 +5270,8 @@
           "name": "Bpn Jabar",
           "areaName": "",
           "directionName": "",
-          "lat": -7.090911,
-          "lng": 107.668887,
+          "lat": -6.944993,
+          "lng": 107.6416841,
           "icon": "",
           "mapIcon": ""
         },
@@ -5320,8 +5320,8 @@
           "name": "Sumbersari",
           "areaName": "",
           "directionName": "",
-          "lat": -6.9242070,
-          "lng": 107.4964586,
+          "lat": -6.9326401,
+          "lng": 107.5734934,
           "icon": "",
           "mapIcon": ""
         },
@@ -5482,7 +5482,7 @@
   {
     "transportName": "Trans Metro Bandung",
     "scheduleId": "tmb_k2",
-    "transportId": "bdg_tmb",
+    "transportId": "bdg_badan_layanan_umum_daerah",
     "validity": "NA",
     "name": "TMB K2",
     "longName": "Cicaheum - Cibeureum",
@@ -5511,7 +5511,7 @@
               "destination": "Cibeureum"
             },
             {
-              "stopId": "bandung_padasuka_indah_a",
+              "stopId": "bandung_padasuka",
               "destination": "Cibeureum"
             },
             {
@@ -5664,7 +5664,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmb_k2_1"
+          "shape": "|aci@_vapSlGjr@fHsH_TRduBfoL_rA}uKj}EzVudEgGx\\|nGd@xFiHsiFmAjT~IxO`JzYvCjGzB~DjCfH_V`~CeHttAoWrnA`CrBz{@wiFkAvS{@~Iy@lLq@~MwArVm@nKyHlGpEjQi@`KgDm]c@~qAwA`P{MtPoSfKaCsBrKw_@pE_@"
         },
         {
           "id": "tmb_k2_2",
@@ -5788,7 +5788,7 @@
               "destination": "Cicaheum"
             },
             {
-              "stopId": "bandung_padasuka_indah_a",
+              "stopId": "bandung_padasuka",
               "destination": "Cicaheum"
             },
             {
@@ -5805,17 +5805,17 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmb_k2_2"
+          "shape": "hkei@gzqoSs@oO|Ek\\iCgb@nLYf@_Rg@s]IcLIsD[eAiCg[oBoBgDyPnBiFdK_Dl@mFfH}LpQc[kFwYgGgN_GmMyFySiL_RfaBvvQkoBstRaF_IwH}RuIcSeb@iXvJ~GiImg@\\{I\\A"
         }
       ],
       "stops": [
         {
-          "id": "bandung_padasuka_indah_a",
+          "id": "bandung_padasuka",
           "name": "Padasuka",
           "areaName": "",
           "directionName": "",
-          "lat": -6.841358,
-          "lng": 107.8983548,
+          "lat": -6.9035702,
+          "lng": 107.6485875,
           "icon": "",
           "mapIcon": ""
         },
@@ -6000,7 +6000,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_seberang_pasar_kosambi",
+          "id": "bandung_pasar_kosambi",
           "name": "Pasar Kosambi",
           "areaName": "",
           "directionName": "",
@@ -6400,7 +6400,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_rajawali_1",
+          "id": "bandung_rajawali_2",
           "name": "Rajawali 2",
           "areaName": "",
           "directionName": "",
@@ -6434,8 +6434,8 @@
           "name": "Katapang",
           "areaName": "",
           "directionName": "",
-          "lat": -6.992112,
-          "lng": 107.555887,
+          "lat": -6.9211402,
+          "lng": 107.6177851,
           "icon": "",
           "mapIcon": ""
         },
@@ -6486,7 +6486,7 @@
   {
     "transportName": "Trans Metro Bandung",
     "scheduleId": "tmb_k3",
-    "transportId": "bdg_tmb",
+    "transportId": "bdg_badan_layanan_umum_daerah",
     "validity": "NA",
     "name": "TMB K3",
     "longName": "Cicaheum - Sarijadi",
@@ -6564,7 +6564,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmb_k3_1"
+          "shape": "|aci@_vapSk[fiCbAt@zA_PYbu@fHeDsB~v@q@ft@sVtqCmExQmOnXpo@qrJozBrnK"
         },
         {
           "id": "tmb_k3_2",
@@ -6629,7 +6629,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmb_k3_2"
+          "shape": "jt~h@yaroSdIgZneAsUvg@ehDn@oaBC`{@DyMsvD~}D~pDypFXcu@wCtMvLkx@|Jqt@lAuY"
         }
       ],
       "stops": [
@@ -6654,7 +6654,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_surapati_3",
+          "id": "bandung_surapati_4",
           "name": "Surapati 4",
           "areaName": "",
           "directionName": "",
@@ -6704,7 +6704,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_phh_mustofa_1",
+          "id": "bandung_phh_mustofa_2",
           "name": "Phh. Mustofa 2",
           "areaName": "",
           "directionName": "",
@@ -6728,8 +6728,8 @@
           "name": "Bkkbn",
           "areaName": "",
           "directionName": "",
-          "lat": -6.5170288,
-          "lng": 106.5876272,
+          "lat": -6.8983599,
+          "lng": 107.6284783,
           "icon": "",
           "mapIcon": ""
         },
@@ -6744,7 +6744,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_surapati_1",
+          "id": "bandung_surapati_2",
           "name": "Surapati 2",
           "areaName": "",
           "directionName": "",
@@ -6804,7 +6804,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_surya_sumantri_1",
+          "id": "bandung_surya_sumantri_2",
           "name": "Surya Sumantri 2",
           "areaName": "",
           "directionName": "",
@@ -6824,7 +6824,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_cikapayang_1",
+          "id": "bandung_cikapayang_2",
           "name": "Cikapayang 2",
           "areaName": "",
           "directionName": "",
@@ -6834,7 +6834,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_surapati_2",
+          "id": "bandung_surapati_3",
           "name": "Surapati 3",
           "areaName": "",
           "directionName": "",
@@ -6870,7 +6870,7 @@
   {
     "transportName": "Trans Metro Bandung",
     "scheduleId": "tmb_k4",
-    "transportId": "bdg_tmb",
+    "transportId": "bdg_badan_layanan_umum_daerah",
     "validity": "NA",
     "name": "TMB K4",
     "longName": "Terminal Antapani - Terminal Leuwipanjang",
@@ -6968,7 +6968,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmb_k4_1"
+          "shape": "tsei@_ocpS|bC|`MiqC{xItlEzzIgt@r@qlCckG`~DdkG_r@kxYcxApvRzp@`StT|Dr{AlVozAlt@~Ofy@lD`e@oCpYtEsCpm@~AwBt@"
         },
         {
           "id": "tmb_k4_2",
@@ -7041,7 +7041,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmb_k4_2"
+          "shape": "foki@kiuoSyi@uCyK^pDwaA^kLDaReA}iA{P_TsToD}k@eKi{@o_@cM{\\aF_IwH}R~LoCnwErvH"
         }
       ],
       "stops": [
@@ -7372,7 +7372,7 @@
   {
     "transportName": "Trans Metro Bandung",
     "scheduleId": "tmb_k5",
-    "transportId": "bdg_tmb",
+    "transportId": "bdg_badan_layanan_umum_daerah",
     "validity": "NA",
     "name": "TMB K5",
     "longName": "Terminal Antapani - Stasiun Hall",
@@ -7486,7 +7486,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmb_k5_1"
+          "shape": "tsei@_ocpS`Dr~E{S|iChKcpDbGxaFbNibEaa@tMbSl{Dg~AijDzb@x`Ap@nWlPvCvQvQnWsRlAIp[HiAlWkAvS{@~Iy@lLoXnFIsD[eA"
         },
         {
           "id": "tmb_k5_2",
@@ -7562,7 +7562,7 @@
               "destination": "Terminal Antapani"
             },
             {
-              "stopId": "bandung_seberang_borma_antapani",
+              "stopId": "bandung_borma_antapani",
               "destination": "Terminal Antapani"
             },
             {
@@ -7575,7 +7575,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_tmb_k5_2"
+          "shape": "hxei@wrvoSiCg[wGiTnBiFrLmKfH}LpQc[kFwYgGgN_GmMyFySiL_RcM{\\aF_IwH}R~LoCfKiLaAkWDwj@xM{y@"
         }
       ],
       "stops": [
@@ -7590,7 +7590,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_seberang_borma_antapani",
+          "id": "bandung_borma_antapani",
           "name": "Borma Antapani",
           "areaName": "",
           "directionName": "",
@@ -7710,7 +7710,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_seberang_pasar_kosambi",
+          "id": "bandung_pasar_kosambi",
           "name": "Pasar Kosambi",
           "areaName": "",
           "directionName": "",
@@ -7934,8 +7934,8 @@
           "name": "Katapang",
           "areaName": "",
           "directionName": "",
-          "lat": -6.992112,
-          "lng": 107.555887,
+          "lat": -6.9211402,
+          "lng": 107.6177851,
           "icon": "",
           "mapIcon": ""
         },
@@ -8108,7 +8108,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_damri_kbp_1"
+          "shape": "`yfi@s_xoScNhB}ThLwGiT{DyEo@tEgp@`C_Pzn@bZu\\_fGlrWzjFwtVqGpFkAbIrDxUce@x\\mExQybGlvP|XnZpz@juBm^a`Al^``Av@iOxEz^~\\yB{\\|X"
         },
         {
           "id": "damri_kbp_2",
@@ -8201,7 +8201,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_damri_kbp_2"
+          "shape": "bj|h@kh|nSz\\}XaWjBoMcNuJuk@oNqLdZfy@mz@srBag@ae@bfG}jPvMiVnU{_@qe@vhAtu@ulCdWqOzJwMrQaGvQvQl[wRo@EfYvW"
         }
       ],
       "stops": [
@@ -8366,7 +8366,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_pasteur_1",
+          "id": "bandung_pasteur_2",
           "name": "Pasteur 2",
           "areaName": "",
           "directionName": "",
@@ -8556,7 +8556,7 @@
           "mapIcon": ""
         },
         {
-          "id": "Jalan Raya Simpang, 456",
+          "id": "bandung_jalan_raya_simpang_456",
           "name": "Jalan Raya Simpang, 456",
           "areaName": "",
           "directionName": "",
@@ -8816,7 +8816,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_damri_8_1"
+          "shape": "zyhi@a~xpSv|AvhKhPjhPuDjkAcZzUccCtZ`m@yOcEmV{a@vi@aJlZn}@a`DwaDrsF|oDuuFckAwvBzxB|\\zXxd@bJwE_F}f@sUcBo@cg@sNq~@{Ei`@}JyTtDeaA`b@yWml@iaByf@deZbb@mt\\qmAm}@qsC`pRhzEgcTlRqP`JyyA~Ca[cFkRkSujAyWqaAipA|p\\fr@uf^mt@kmBxfBfnE{fD}iDqMmH"
         },
         {
           "id": "damri_8_2",
@@ -8921,7 +8921,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_damri_8_2"
+          "shape": "hfdi@{}|pS`_Aic@dA`ua@`_Bct[tHdy@rYju@xC|a@eFlw@{^h`Ac@bi@`mApt@q|@zaBpOxaF|vBksDgaBbrF~YlvAbLbo@Nj\\enGloFnhGacDcZzUg_@feAa[{y@}Pw``@"
         }
       ],
       "stops": [
@@ -9180,8 +9180,8 @@
         "name": "Isbi",
         "areaName": "",
         "directionName": "",
-        "lat": -6.8328067,
-        "lng": 107.3516439,
+        "lat": -6.9416637,
+        "lng": 107.6396825,
         "icon": "",
         "mapIcon": ""
         },
@@ -9190,8 +9190,8 @@
         "name": "Stt Mandala",
         "areaName": "",
         "directionName": "",
-        "lat": -6.8328067,
-        "lng": 107.3516439,
+        "lat": -6.942846,
+        "lng": 107.6416018,
         "icon": "",
         "mapIcon": ""
         },
@@ -9420,8 +9420,8 @@
         "name": "Jalan Bandung - Palimanan 52",
         "areaName": "",
         "directionName": "",
-        "lat": -6.707481,
-        "lng": 108.432012,
+        "lat": -6.9405969,
+        "lng": 107.7476453,
         "icon": "",
         "mapIcon": ""
         },
@@ -9440,8 +9440,8 @@
         "name": "Jalan Bandung - Palimanan 13",
         "areaName": "",
         "directionName": "",
-        "lat": -6.707472,
-        "lng": 108.431986,
+        "lat": -6.9355603,
+        "lng": 107.7619343,
         "icon": "",
         "mapIcon": ""
         },
@@ -9530,8 +9530,8 @@
         "name": "Bpk Jabar",
         "areaName": "",
         "directionName": "",
-        "lat": -7.090911,
-        "lng": 107.668887,
+        "lat": -6.9390196,
+        "lng": 107.5971982,
         "icon": "",
         "mapIcon": ""
         },
@@ -9646,7 +9646,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_damri_6a_1"
+          "shape": "hkei@gzqoSpmBybf@bv@tyCikAt}HhkAu}HcSjgLi}A`qFzaDzfAurEZnsCrlB|fB|Vev@pnBcQlx@akCfUxl@ni@jmAoqa@i]cwAyWqaA"
         },
         {
           "id": "damri_6a_2",
@@ -9731,7 +9731,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_damri_6a_2"
+          "shape": "zyhi@a~xpSvMx[|I~d@d]nlBWsTdxAvgZktEf~DrlDgmDr[hg@ipF{}DbmEvnFi|CowHhaChvJ_UfUyi@`m@kHo@aSaA}{@c@kYgG"
         }
       ],
       "stops": [
@@ -9830,8 +9830,8 @@
           "name": "Terusan Suryani",
           "areaName": "",
           "directionName": "",
-          "lat": -7.0357112,
-          "lng": 107.7132426,
+          "lat": -6.9372503,
+          "lng": 107.6832027,
           "icon": "",
           "mapIcon": ""
         },
@@ -9900,8 +9900,8 @@
           "name": "Babakan Ciparay",
           "areaName": "",
           "directionName": "",
-          "lat": -6.9546052,
-          "lng": 107.6115668,
+          "lat": -6.93812,
+          "lng": 107.6152925,
           "icon": "",
           "mapIcon": ""
         },
@@ -10010,8 +10010,8 @@
           "name": "Jalan Bandung - Palimanan 52",
           "areaName": "",
           "directionName": "",
-          "lat": -6.707481,
-          "lng": 108.432012,
+          "lat": -6.9405969,
+          "lng": 107.7476453,
           "icon": "",
           "mapIcon": ""
         },
@@ -10050,8 +10050,8 @@
           "name": "Sumbersari",
           "areaName": "",
           "directionName": "",
-          "lat": -6.9242070,
-          "lng": 107.4964586,
+          "lat": -6.9326401,
+          "lng": 107.5734934,
           "icon": "",
           "mapIcon": ""
         },
@@ -10111,7 +10111,7 @@
               "destination": "Stasiun Tegalluar"
             },
             {
-              "stopId": "bandung_seberang_taman_sumringah",
+              "stopId": "bandung_taman_sumringah",
               "destination": "Stasiun Tegalluar"
             },
             {
@@ -10136,7 +10136,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_damri_tegalluar_1"
+          "shape": "jcii@s}ipSza@nxDvHvcAvT|hA`[skKusA{o@~T|jAraDo|@"
         },
         {
           "id": "damri_tegalluar_2",
@@ -10301,7 +10301,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_damri_tegalluar_2"
+          "shape": "veoi@odmpSsaDn|@_U}jAtsAzo@a[rkKwT}hAsk@g}FjaAdgIcZexAkGocBXcDi_BruNfbB_mMTbJMJvHvcApqBsbE}tMbtMjdJ_{G~R|sAfFl\\Wi@eKav@~Pdg@yD~[uKiKjDa_@{EaGsL_w@_AqFgBaKsBgTK?qJyT{ZkFp`@eu@?sC_B_HeZs{B"
         }
       ],
       "stops": [
@@ -10376,7 +10376,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_seberang_taman_sumringah",
+          "id": "bandung_taman_sumringah",
           "name": "Taman Sumringah",
           "areaName": "",
           "directionName": "",
@@ -10406,7 +10406,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_halte_soekarno_hatta_3",
+          "id": "bandung_halte_soekarno_hatta_4",
           "name": "Halte Soekarno Hatta 4",
           "areaName": "",
           "directionName": "",
@@ -10430,8 +10430,8 @@
           "name": "Gerbang Merah",
           "areaName": "",
           "directionName": "",
-          "lat": -6.8328067,
-          "lng": 107.3516439,
+          "lat": -6.9382582,
+          "lng": 107.7056054,
           "icon": "",
           "mapIcon": ""
         },
@@ -10440,8 +10440,8 @@
           "name": "Stt Mandala",
           "areaName": "",
           "directionName": "",
-          "lat": -6.8328067,
-          "lng": 107.3516439,
+          "lat": -6.942846,
+          "lng": 107.6416018,
           "icon": "",
           "mapIcon": ""
         },
@@ -10560,8 +10560,8 @@
           "name": "Bpn Jabar",
           "areaName": "",
           "directionName": "",
-          "lat": -7.090911,
-          "lng": 107.668887,
+          "lat": -6.944993,
+          "lng": 107.6416841,
           "icon": "",
           "mapIcon": ""
         },
@@ -10570,8 +10570,8 @@
           "name": "Universitas Mandiri",
           "areaName": "",
           "directionName": "",
-          "lat": -6.549625,
-          "lng": 107.762303,
+          "lat": -6.9448799,
+          "lng": 107.6418971,
           "icon": "",
           "mapIcon": ""
         },
@@ -10803,7 +10803,7 @@
               "destination": "Cibiru"
             },
             {
-              "stopId": "bandung_seberang_pasar_kosambi",
+              "stopId": "bandung_pasar_kosambi",
               "destination": "Cibiru"
             },
             {
@@ -10920,7 +10920,7 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_damri_11_1"
+          "shape": "`yfi@s_xoScNhB|o@fC{U`KeR{oBnq@|qBgYLz}@\\}hAnYqPawCpeD`zDgt@r@np@@g{CgfCdDoPm^glAaIkq@~}AbvRkoBstRyAma@ox@grArQth@qRy]z@}IDySfJm_@n@wVjC_fAdKe[bCoJ|C_JxaC}qCkfBxlBhFkWy@gN~AsJahAuw@|~DgwAcmB|jIns@wbHts@jVmy@kY"
         },
         {
           "id": "damri_11_2",
@@ -11016,7 +11016,7 @@
               "destination": "Leuwipanjang"
             },
             {
-              "stopId": "bandung_padasuka_indah_a",
+              "stopId": "bandung_padasuka",
               "destination": "Leuwipanjang"
             },
             {
@@ -11149,17 +11149,17 @@
             }
           ],
           "isHidden": false,
-          "shape": "shp_damri_11_2"
+          "shape": "|cgi@y`npSly@jYus@kVtb@pl@ewAduFbmB}jI}~DfwA`hAtw@\\~[oAbO}F|Uyg@hCf}BazBusBbuCCAcCnJeKd[kC~eASpMcEvc@eEtXlGjr@fHsHsQuh@d~FnzAk}E{Vlh@`sFt@ylEfrDkM}hEdOnV`i@~IxOqGee@wCdRhAdA~IxOl^flAlF|OIgFs@vKiArRyQasAzB~DpP`wCeLymCbb@|fBjrCycBk~AdpBzGr@gJjnAdW{Pve@pLnMeN}xCqsA"
         }
       ],
       "stops": [
         {
-          "id": "bandung_padasuka_indah_a",
+          "id": "bandung_padasuka",
           "name": "Padasuka",
           "areaName": "",
           "directionName": "",
-          "lat": -6.841358,
-          "lng": 107.8983548,
+          "lat": -6.9035702,
+          "lng": 107.6485875,
           "icon": "",
           "mapIcon": ""
         },
@@ -11324,7 +11324,7 @@
           "mapIcon": ""
         },
         {
-          "id": "bandung_seberang_pasar_kosambi",
+          "id": "bandung_pasar_kosambi",
           "name": "Pasar Kosambi",
           "areaName": "",
           "directionName": "",
@@ -11568,8 +11568,8 @@
           "name": "Katapang",
           "areaName": "",
           "directionName": "",
-          "lat": -6.992112,
-          "lng": 107.555887,
+          "lat": -6.9211402,
+          "lng": 107.6177851,
           "icon": "",
           "mapIcon": ""
         },

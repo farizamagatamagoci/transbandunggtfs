@@ -4,7 +4,7 @@ library(tidyr)
 rm(list = ls())
 
 # read data
-sc <- readRDS("data/tj_schedule.rds")
+sc <- readRDS("data/bandung_schedule.rds")
 
 # available weekly schedule, may various according to pull-data day
 cal <- sc %>%
@@ -42,8 +42,8 @@ cal <- cal %>%
          saturday  = ifelse(saturday == "x", 0L, 1L),
          sunday    = ifelse(sunday == "x", 0L, 1L),
          # applied days
-         start_date = as.character(format(Sys.Date(), "%Y%m%d")),
-         end_date = "20211231") # PPKM level 3 until ????
+         start_date = "20240426", # The day of data was taken
+         end_date = "20241231") # Assumption till the end day of 2024 ????
 
 # save data
 write.csv(cal, "data/gtfs/calendar.txt", row.names = FALSE, na = "")
