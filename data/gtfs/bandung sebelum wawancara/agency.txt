@@ -1,4 +1,0 @@
-"agency_id","agency_name","agency_url","agency_timezone"
-"tmp","Trans Metro Pasundan","https://temanbus.com/","Asia/Jakarta"
-"tmb","Trans Metro Bandung","NA","Asia/Jakarta"
-"damri","DAMRI","https://damri.co.id/","Asia/Jakarta"

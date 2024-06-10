@@ -3,10 +3,8 @@ library(tidyr)
 
 rm(list = ls())
 
-# read data
 sc <- readRDS("data/bandung_schedule.rds")
 
-# available weekly schedule, may various according to pull-data day
 cal <- sc %>%
   select(route_id, direction_id, day, start_time) %>%
   mutate(day = tolower(day),
@@ -18,7 +16,6 @@ cal <- sc %>%
   select(monday, tuesday, wednesday, thursday, friday, saturday, sunday) %>%
   distinct()
 
-# calendar
 cal <- cal %>%
   mutate(service_id = 1:n()) %>%
   pivot_longer(cols = -8, names_to = "day", values_to = "operation") %>%
@@ -33,7 +30,6 @@ cal <- cal %>%
                         ifelse(service_id == "mtwtfxx", "weekday",
                           ifelse(service_id == "xxxxxss", "weekend",
                              service_id))),
-         # back to operation = 1 and not operation = 0
          monday    = ifelse(monday == "x", 0L, 1L),
          tuesday   = ifelse(tuesday == "x", 0L, 1L),
          wednesday = ifelse(wednesday == "x", 0L, 1L),
@@ -41,9 +37,7 @@ cal <- cal %>%
          friday    = ifelse(friday == "x", 0L, 1L),
          saturday  = ifelse(saturday == "x", 0L, 1L),
          sunday    = ifelse(sunday == "x", 0L, 1L),
-         # applied days
-         start_date = "20240426", # The day of data was taken
-         end_date = "20241231") # Assumption till the end day of 2024 ????
+         start_date = "20240426",
+         end_date = "20241231")
 
-# save data
 write.csv(cal, "data/gtfs/calendar.txt", row.names = FALSE, na = "")

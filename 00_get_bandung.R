@@ -1,7 +1,5 @@
 library(rvest)
 library(dplyr)
-library(tidyr)
-library(purrr)
 library(stringr)
 
 url <- "URL_SITUS_MOOVIT"
@@ -21,26 +19,25 @@ get_schedule <- function(url_char) {
 
 trans_stops <- function(t) {
   t %>%
-    rename("stop" = "stop-Wrapper") %>%
+    rename("stop" = "stopWrapper") %>%
     mutate(stop = str_trim(stop))
 }
 
 stops <- sch_url %>%
-  select(url) %>%
-  rowwise() %>%
-  mutate(stops_data = list(trans_stops(get_schedule(url)))) %>%
-  unnest(stops_data)
+  select(Route_info) %>%
+  str_split(pattern = "\n", simplify = TRUE) %>%
+  unnest(c("stop")) %>%
+  mutate(stop = str_trim(stop))
 
-route_info <- stops %>%
-  group_by(name) %>%
-  summarise(
-    departure_route = toJSON(list(stop = stop[1:floor(n()/2)])),
-    return_route = toJSON(list(stop = stop[(floor(n()/2) + 1):n()]))
-  )
+sc <- bind_cols(sch_url, stops)
 
-sc <- bind_cols(sch_url, route_info)
+names(sc) <- c("transportName", "scheduleId", "transportId", "Name", "longName", "Route_info", "Load_date")
 
-sc <- sc %>%
-  mutate(latitude = NA, longitude = NA, shape = NA)
+route_info <- sc %>%
+  select(Route_info) %>%
+  str_split(pattern = "\n", simplify = TRUE) %>%
+  unnest(c("Id", "Name", "longName", "transportName", "Tracks", "stops"))
 
-write_json(sc, "data/bandung_detail.json")
+sc <- bind_cols(sc, route_info)
+
+write.json(sc, "data/bandung_detail.json")

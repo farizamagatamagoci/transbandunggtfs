@@ -4,8 +4,6 @@ rm(list = ls())
 
 bandungbrt <- readRDS("data/bandung_detail.rds")
 
-# agency_id, agency_name, agency_url, agency_timezone
-
 agency <- bandungbrt %>%
   select(agency_id = transportId) %>%
   distinct() %>%
@@ -18,5 +16,4 @@ agency <- bandungbrt %>%
                         "https://upt-angkutan-dishub.github.io/"),
          agency_timezone = "Asia/Jakarta")
 
-# save data
 write.csv(agency, "data/gtfs/agency.txt", row.names = FALSE, na = "")

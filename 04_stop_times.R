@@ -4,11 +4,8 @@ library(purrr)
 
 rm(list = ls())
 
-# read data
 bandungbrt <- readRDS("data/bandung_detail.rds")
 schedule <- readRDS("data/bandung_schedule.rds")
-
-# trip_id, arrival_time, departure_time, stop_id, stop_sequence
 
 stimes <- bandungbrt %>%
   mutate(trip = map(bandungbrt$route_info, "tracks")) %>%
@@ -18,7 +15,6 @@ stimes <- bandungbrt %>%
   unnest(trip) %>%
   select(trip_id = id, stops)
 
-# assumption arrival and departure has the same exact time
 first_stop_times <- schedule %>%
   select(route_id, direction_id, start_time) %>%
   mutate(trip_id = paste(route_id, direction_id+1, sep = "_"),
@@ -33,8 +29,6 @@ last_stop_times <- schedule %>%
   select(trip_id, arr_der_time) %>%
   distinct(trip_id, .keep_all = TRUE)
 
-
-# add stop_sequence, arrival_time, and departure_time
 stimes$stops <- map(stimes$stops, function(ls_stop) {
   mutate(ls_stop,
          stop_sequence = 1:n(),
@@ -51,8 +45,4 @@ stimes <- stimes %>%
   mutate(stop_id = .$stopId) %>%
   select(trip_id, arrival_time, departure_time, stop_id, stop_sequence)
 
-# save data
 write.csv(stimes, "data/gtfs/stop_times.txt", row.names = FALSE, na = "")
-# write.csv(ls_stop, "data/gtfs/000.txt", row.names = FALSE, na = "")
-write.csv(first_stop_times, "data/gtfs/111.txt", row.names = FALSE, na = "")
-write.csv(last_stop_times, "data/gtfs/222.txt", row.names = FALSE, na = "")

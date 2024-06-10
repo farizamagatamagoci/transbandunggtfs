@@ -1,4 +1,0 @@
-"agency_id","agency_name","agency_url","agency_timezone"
-"damri","DAMRI","https://damri.co.id/","Asia/Jakarta"
-"bluebird","Blue Bird Bandung","https://www.bluebirdgroup.com/","Asia/Jakarta"
-"badan_layanan_umum_daerah","Badan Layanan Umum Daerah Kota Bandung","https://upt-angkutan-dishub.github.io/","Asia/Jakarta"
