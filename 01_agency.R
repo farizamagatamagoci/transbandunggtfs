@@ -2,9 +2,9 @@ library(dplyr)
 
 rm(list = ls())
 
-bandungbrt <- readRDS("data/bandung_detail.rds")
+bandungbus <- readRDS("data/bandung_detail.rds")
 
-agency <- bandungbrt %>%
+agency <- bandungbus %>%
   select(agency_id = transportId) %>%
   distinct() %>%
   mutate(agency_id = gsub("bdg_", "", .$agency_id),

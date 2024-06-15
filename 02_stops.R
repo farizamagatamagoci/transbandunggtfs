@@ -4,10 +4,10 @@ library(purrr)
 
 rm(list = ls())
 
-bandungbrt <- readRDS("data/bandung_detail.rds")
+bandungbus <- readRDS("data/bandung_detail.rds")
 
-stops <- bandungbrt %>%
-  mutate(stop_detail = map(bandungbrt$route_info, "stops")) %>%
+stops <- bandungbus %>%
+  mutate(stop_detail = map(bandungbus$route_info, "stops")) %>%
   select(stop_detail) %>%
   unnest("stop_detail") %>%
   mutate(id = .$id) %>%

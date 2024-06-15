@@ -4,11 +4,11 @@ library(purrr)
 
 rm(list = ls())
 
-bandungbrt <- readRDS("data/bandung_detail.rds")
+bandungbus <- readRDS("data/bandung_detail.rds")
 schedule <- readRDS("data/bandung_schedule.rds")
 
-stimes <- bandungbrt %>%
-  mutate(trip = map(bandungbrt$route_info, "tracks")) %>%
+stimes <- bandungbus %>%
+  mutate(trip = map(bandungbus$route_info, "tracks")) %>%
   select(route_id = scheduleId,
          route_color = color,
          trip) %>%

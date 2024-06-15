@@ -3,9 +3,9 @@ library(tidyr)
 
 rm(list = ls())
 
-bandungbrt <- readRDS("data/bandung_detail.rds")
+bandungbus <- readRDS("data/bandung_detail.rds")
 
-routes <- bandungbrt %>%
+routes <- bandungbus %>%
   select(route_id = scheduleId,
          agency_id = transportId,
          route_short_name = name,
