@@ -5,7 +5,6 @@ library(purrr)
 rm(list = ls())
 
 bandungbus <- readRDS("data/bandung_detail.rds")
-schedule <- readRDS("data/bandung_schedule.rds")
 
 stimes <- bandungbus %>%
   mutate(trip = map(bandungbus$route_info, "tracks")) %>%
@@ -15,29 +14,24 @@ stimes <- bandungbus %>%
   unnest(trip) %>%
   select(trip_id = id, stops)
 
-first_stop_times <- schedule %>%
-  select(route_id, direction_id, start_time) %>%
-  mutate(trip_id = paste(route_id, direction_id+1, sep = "_"),
-         arr_der_time = start_time) %>%
-  select(trip_id, arr_der_time) %>%
-  distinct(trip_id, .keep_all = TRUE)
-
-last_stop_times <- schedule %>%
-  select(route_id, direction_id, end_time) %>%
-  mutate(trip_id = paste(route_id, direction_id+1, sep = "_"),
-         arr_der_time = end_time) %>%
-  select(trip_id, arr_der_time) %>%
-  distinct(trip_id, .keep_all = TRUE)
-
-stimes$stops <- map(stimes$stops, function(ls_stop) {
-  mutate(ls_stop,
-         stop_sequence = 1:n(),
-         arrival_time = ifelse(stop_sequence == 1, first_stop_times$arr_der_time[first_stop_times$trip_id == stimes$trip_id],
-                               ifelse(stop_sequence == n(), last_stop_times$arr_der_time[last_stop_times$trip_id == stimes$trip_id],
-                                      NA)),
-         departure_time = ifelse(stop_sequence == 1, first_stop_times$arr_der_time[first_stop_times$trip_id == stimes$trip_id],
-                                 ifelse(stop_sequence == n(), last_stop_times$arr_der_time[last_stop_times$trip_id == stimes$trip_id],
-                                        NA)))
+stimes$stops <- map2(stimes$stops, stimes$trip_id, function(ls_stop, trip_id) {
+    mutate(
+      ls_stop,
+      stop_sequence = 1:n(),
+      last_digit = substr(trip_id, nchar(trip_id), nchar(trip_id)),
+      arrival_time = ifelse(
+        last_digit == '1' & stop_sequence == 1, "17:30:00",
+        ifelse(last_digit == '1' & stop_sequence == n(), "19:30:00",
+               ifelse(last_digit == '2' & stop_sequence == 1, "17:30:00",
+                      ifelse(last_digit == '2' & stop_sequence == n(), "19:30:00", NA)))
+      ),
+      departure_time = ifelse(
+        last_digit == '1' & stop_sequence == 1, "17:30:00",
+        ifelse(last_digit == '1' & stop_sequence == n(), "19:30:00",
+               ifelse(last_digit == '2' & stop_sequence == 1, "17:30:00",
+                      ifelse(last_digit == '2' & stop_sequence == n(), "19:30:00", NA)))
+      )
+    )
 })
 
 stimes <- stimes %>%
